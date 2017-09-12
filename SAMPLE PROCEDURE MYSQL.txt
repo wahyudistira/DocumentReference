@@ -1,0 +1,64 @@
+SAMPLE PROCEDURE, FUNCTION, VIEW MYSQL
+
+drop PROCEDURE if exist getIzinSyaratLengkap;
+CREATE  PROCEDURE if exists getIzinSyaratLengkap(
+	IN NEWIDIZIN CHAR(11),
+	OUT total INT )
+BEGIN
+ SELECT count(*)
+		INTO total
+ from 
+		mstpersyaratan mp
+ INNER JOIN mstberkas mb ON mp.IDPERSYARATAN = mb.IDBERKAS
+ WHERE IDIZIN = NEWIDIZIN;
+END;
+
+
+CALL getIzinSyaratLengkap('1',@total);
+select @total;
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+drop PROCEDURE if exists getExistingSyaratLengkap;
+CREATE  PROCEDURE getExistingSyaratLengkap(
+	IN newidPendaftaran CHAR(11),
+	IN newidIzin char(11),
+	OUT existTotal INT )
+BEGIN
+SELECT count(*) INTO existTotal
+FROM
+	berkasizin br INNER JOIN mstpersyaratan mp ON br.IDPERSYARATAN = mp.IDPERSYARATAN
+								inner JOIN mstberkas mb ON mp.IDBERKAS = mb.IDBERKAS
+WHERE
+		br.IDPENDAFTARAN =newidPendaftaran
+and mp.IDIZIN = newidIzin;
+END;
+
+
+call getExistingSyaratLengkap(
+	1,
+	1,
+	@existTotal);
+
+SELECT @exitsTotal;
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+drop FUNCTION IF EXISTS statuslengkap;
+CREATE FUNCTION statusLengkap(p_syarat int , p_existing INT) RETURNS VARCHAR(16)
+	DETERMINISTIC
+BEGIN
+	DECLARE lstatus varchar(16);
+	
+	IF p_syarat <= p_existing THEN
+		SET lstatus = TRUE;
+	ELSE
+		SET lstatus =FALSE;
+	END IF;
+	RETURN(lstatus);	
+END;
+
+
+
+CALL getExistingSyaratLengkap(1,1,@existTotal);
+call getIzinSyaratLengkap(1,@total);
+
+SELECT statusLengkap(@total,@existTotal)
