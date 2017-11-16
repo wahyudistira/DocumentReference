@@ -1,0 +1,107 @@
+<Workspace
+	CID = "1"
+	NextCID = "2"
+	IconCategory = "Prototype">
+	<OpenFiles
+		CID = "1"
+		LastActive = "22">
+		<File
+			FileID = "A8C4A29C-DDEB-4CEB-AA6237EE125EE2AD"
+			RootPath = "$Container"
+			RelativePathname = "CardInventory\CardInventoryList.gui"
+			ViewSettings = ""/>
+		<File
+			FileID = "392D7DD0-5636-43E8-94262F25E6C0973A"
+			RootPath = "$Container"
+			RelativePathname = "CardInventory\ApprovalUploadCmsForm.gui"
+			ViewSettings = ""/>
+		<File
+			FileID = "B3798A79-D24E-4D19-9933EEDA90724CCE"
+			RootPath = "$Container"
+			RelativePathname = "CardInventory\ApprovalUploadCargo.gui"
+			ViewSettings = ""/>
+		<File
+			RootPath = "$Container"
+			RelativePathname = "CardReturn\BarcodingProcessForm.gui"
+			ViewSettings = ""/>
+		<File
+			RootPath = "$Container"
+			RelativePathname = "CardInventory\MonitoringCardForm.gui"
+			ViewSettings = ""/>
+		<File
+			RootPath = "$Container"
+			RelativePathname = "CardReturn\DetailCardReturnForm.gui"
+			ViewSettings = ""/>
+		<File
+			RootPath = "$Container"
+			RelativePathname = "SmsBlast\SmsBlastListForm.gui"
+			ViewSettings = ""/>
+		<File
+			RootPath = "$Container"
+			RelativePathname = "SmsBlast\SmsBlastUploadForm.gui"
+			ViewSettings = ""/>
+		<File
+			RootPath = "$Container"
+			RelativePathname = "Master\HolidayMasterForm.gui"
+			ViewSettings = ""/>
+		<File
+			FileID = "EA320961-C2C6-4C42-9ADE257DCF0F4123"
+			RootPath = "$Container"
+			RelativePathname = "Master\ZipCodeMasterForm.gui"
+			ViewSettings = ""/>
+		<File
+			RootPath = "$Container"
+			RelativePathname = "MonitoringCocForm.gui"
+			ViewSettings = ""/>
+		<File
+			RootPath = "$Container"
+			RelativePathname = "CardInventory\UploadMainForm.gui"
+			ViewSettings = ""/>
+		<File
+			FileID = "2B39EF8C-B643-4D17-8DB5D525C115BF1F"
+			RootPath = "$Container"
+			RelativePathname = "CardInventory\ApprovalMainForm.gui"
+			ViewSettings = ""/>
+		<File
+			FileID = "8C5002AF-1A0E-424B-9D3184EAA12854F7"
+			RootPath = "$Container"
+			RelativePathname = "CardInventory\ApprovedUploadGemaltoForm.gui"
+			ViewSettings = ""/>
+		<File
+			RootPath = "$Container"
+			RelativePathname = "CardInventory\UploadGemaltoData.gui"
+			ViewSettings = ""/>
+		<File
+			RootPath = "$Container"
+			RelativePathname = "CardReturn\CardRetrievalForm.gui"
+			ViewSettings = ""/>
+		<File
+			RootPath = "$Container"
+			RelativePathname = "CardReturn\CardRetrievalInputForm.gui"
+			ViewSettings = ""/>
+		<File
+			FileID = "15D5E9CE-DB49-4580-B79F505B66120E29"
+			RootPath = "$Container"
+			RelativePathname = "Master\SlaCargoShipperMasterForm.gui"
+			ViewSettings = ""/>
+		<File
+			FileID = "0C979C20-4FD5-47F1-9EBCF98AF0F28B8D"
+			RootPath = "$Container"
+			RelativePathname = "Master\MapingMasterForm.gui"
+			ViewSettings = ""/>
+		<File
+			RootPath = "$Container"
+			RelativePathname = "Master\HolidayVendor.gui"
+			ViewSettings = ""/>
+		<File
+			FileID = "A3F28890-97C3-4D7F-863CCA58D9BB0135"
+			RootPath = "$Container"
+			RelativePathname = "SmsBlast\TeleCallUploadForm.gui"
+			ViewSettings = ""/>
+		<File
+			FileID = "88FA333C-F907-496D-B3B968671A6A3D9C"
+			RootPath = "$Container"
+			RelativePathname = "SmsBlast\TelecallListForm.gui"
+			ViewSettings = ""/>
+	</OpenFiles>
+</Workspace>

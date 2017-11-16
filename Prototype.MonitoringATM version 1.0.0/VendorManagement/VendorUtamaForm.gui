@@ -1,0 +1,369 @@
+<Screen
+	CID = "617773605"
+	AppID = "2"
+	AppVer = "4.2.115.0"
+	DocID = ""
+	HasCanvas = "0"
+	Width = "640"
+	Height = "480"
+	NextCID = "6"
+	RepresentativeRefID = "0"
+	UseDefRepresentative = "1">
+	<Elements
+		CID = "1">
+		<Element
+			CID = "1187270614"
+			Type = "Rectangle"
+			X = "-107"
+			Y = "-69"
+			Width = "811"
+			Height = "632"
+			Flags = "0"
+			HighlightColour = "250,250,250,0,21"
+			ShadowColour = "172,168,153,0,17"
+			FillColour = "251,240,236,0,0"
+			GradientColour = "255,255,255,0,0"
+			BorderColour = "28,81,128,0,7"
+			TextColour = "0,0,0,0,19"
+			Fill = "VerticalGradient"
+			Border = "None"
+			TextPlacement = "Top"
+			HorzAlign = "Left"
+			BorderDepth = "2"
+			BorderWidth = "2"
+			Text = ""
+			TextOutsideExtent = "1"
+			IsDisabled = "0"/>
+		<Element
+			CID = "1187269338"
+			Type = "StaticText"
+			X = "-107"
+			Y = "-69"
+			Width = "811"
+			Height = "25"
+			Flags = "0"
+			FillColour = "34,32,31,0,0"
+			TextColour = "255,255,255,0,0"
+			Typeface = "Arial"
+			FontAttributes = "1"
+			TextSize = "100"
+			Text = "  Vendor"
+			IsDisabled = "0"
+			Fill = "Solid"
+			HorzAlign = "Left"
+			VertAlign = "Centre"/>
+		<Element
+			CID = "1187261959"
+			Type = "TextButton"
+			X = "-91"
+			Y = "532"
+			Width = "75"
+			Height = "23"
+			Flags = "0"
+			TextColour = "0,0,0,0,19"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			Text = "Submit"
+			Depth = "2"
+			IsDefault = "0"
+			IsDisabled = "0"
+			MarginLeft = "0"
+			MarginRight = "0"
+			MarginTop = "0"
+			MarginBottom = "0"
+			AutoNavType = "Close"/>
+		<Element
+			CID = "1187280774"
+			Type = "TextButton"
+			X = "-9"
+			Y = "532"
+			Width = "75"
+			Height = "23"
+			Flags = "0"
+			TextColour = "0,0,0,0,19"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			Text = "Cancel"
+			Depth = "2"
+			IsDefault = "0"
+			IsDisabled = "0"
+			MarginLeft = "0"
+			MarginRight = "0"
+			MarginTop = "0"
+			MarginBottom = "0"
+			AutoNavType = "Close"/>
+		<Element
+			CID = "1187263204"
+			Type = "HorizontalTabBar"
+			X = "-97"
+			Y = "-37"
+			Width = "793"
+			Height = "552"
+			Flags = "0"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			NextItemID = "18"
+			LeftMargin = "0"
+			RightMargin = "0"
+			SelectedTab = "0"
+			IsProportional = "1"
+			IsFullWidth = "1"
+			IsReversed = "0"
+			EnableSimSelect = "1"
+			Mirror = "0"
+			TabMarginLeft = "0"
+			TabMarginRight = "0"
+			TabMarginTop = "0"
+			TabMarginBottom = "0">
+			<TabBarItem
+				ItemID = "11"
+				Text = "Detail Information"
+				IsDisabled = "0"/>
+			<TabBarItem
+				ItemID = "12"
+				Text = "Document Legal"
+				IsDisabled = "0"/>
+			<TabBarItem
+				ItemID = "13"
+				Text = "Document Support"
+				IsDisabled = "0"/>
+			<TabBarItem
+				ItemID = "16"
+				Text = "Personal Vendor"
+				IsDisabled = "0"/>
+			<TabBarItem
+				ItemID = "14"
+				Text = "Bank Account"
+				IsDisabled = "0"/>
+			<TabBarItem
+				ItemID = "15"
+				Text = "Other Info"
+				IsDisabled = "0"/>
+			<TabBarItem
+				ItemID = "17"
+				Text = "Attachment &amp;&amp; Comment"
+				IsDisabled = "0"/>
+		</Element>
+		<Element
+			CID = "1187260011"
+			Type = "NavigationSwitchPlaceholder"
+			X = "-94"
+			Y = "-14"
+			Width = "788"
+			Height = "526"
+			Flags = "0"
+			Alignment = "TopLeft"
+			AlignTo = "AnchorBox"/>
+		<Element
+			CID = "149583209"
+			Type = "ComponentThumbnail"
+			X = "-301"
+			Y = "-350"
+			Width = "120"
+			Height = "120"
+			Flags = "3"
+			BackgroundColour = "255,255,255,0,6"
+			FileID = "24BF7FDA-2397-4FF4-84A4474468908694"
+			RootPath = "$Container"
+			Filename = "DetailInformationVendorForm.gui"
+			Background = "Transparent"
+			HorzAlign = "Left"
+			VertAlign = "Top"
+			MaintainSize = "1"/>
+		<Element
+			CID = "149555936"
+			Type = "ComponentThumbnail"
+			X = "-165"
+			Y = "-347"
+			Width = "120"
+			Height = "120"
+			Flags = "3"
+			BackgroundColour = "255,255,255,0,6"
+			FileID = "4AA24CD4-96D7-4E02-ABE83F0B29D0713F"
+			RootPath = "$Container"
+			Filename = "DocumentLegalVendorForm.gui"
+			Background = "Transparent"
+			HorzAlign = "Left"
+			VertAlign = "Top"
+			MaintainSize = "1"/>
+		<Element
+			CID = "149577959"
+			Type = "ComponentThumbnail"
+			X = "-24"
+			Y = "-346"
+			Width = "120"
+			Height = "120"
+			Flags = "3"
+			BackgroundColour = "255,255,255,0,6"
+			FileID = "0F3D454E-20B9-409D-97759EEC7895E36F"
+			RootPath = "$Container"
+			Filename = "DocumentSupportVendorForm.gui"
+			Background = "Transparent"
+			HorzAlign = "Left"
+			VertAlign = "Top"
+			MaintainSize = "1"/>
+		<Element
+			CID = "149567107"
+			Type = "ComponentThumbnail"
+			X = "118"
+			Y = "-347"
+			Width = "120"
+			Height = "120"
+			Flags = "3"
+			BackgroundColour = "255,255,255,0,6"
+			FileID = "2233A553-1D15-4490-86D76E11C8E472D1"
+			RootPath = "$Container"
+			Filename = "PersonalVendorForm.gui"
+			Background = "Transparent"
+			HorzAlign = "Left"
+			VertAlign = "Top"
+			MaintainSize = "1"/>
+		<Element
+			CID = "149560776"
+			Type = "ComponentThumbnail"
+			X = "261"
+			Y = "-348"
+			Width = "120"
+			Height = "120"
+			Flags = "3"
+			BackgroundColour = "255,255,255,0,6"
+			FileID = "3099B660-1B1E-4C71-B0F1987FCD4C02B0"
+			RootPath = "$Container"
+			Filename = "BankAccountVendorForm.gui"
+			Background = "Transparent"
+			HorzAlign = "Left"
+			VertAlign = "Top"
+			MaintainSize = "1"/>
+		<Element
+			CID = "149561883"
+			Type = "ComponentThumbnail"
+			X = "425"
+			Y = "-351"
+			Width = "120"
+			Height = "120"
+			Flags = "3"
+			BackgroundColour = "255,255,255,0,6"
+			FileID = "BB0EA459-3752-46C2-ABB721B53CEF9341"
+			RootPath = "$Container"
+			Filename = "OtherInfoVendorForm.gui"
+			Background = "Transparent"
+			HorzAlign = "Left"
+			VertAlign = "Top"
+			MaintainSize = "1"/>
+		<Element
+			CID = "149573485"
+			Type = "ComponentThumbnail"
+			X = "568"
+			Y = "-349"
+			Width = "120"
+			Height = "120"
+			Flags = "3"
+			BackgroundColour = "255,255,255,0,6"
+			FileID = "25BE647F-0925-4D35-970E243A5918E5C6"
+			RootPath = "$Container"
+			Filename = "AttachementCommentVendorForm.gui"
+			Background = "Transparent"
+			HorzAlign = "Left"
+			VertAlign = "Top"
+			MaintainSize = "1"/>
+	</Elements>
+	<Connections
+		CID = "2">
+		<Connection
+			CID = "149560972"
+			Layer = "DesignElements"
+			Trigger = "LeftClick"
+			Type = "Navigation"
+			SubType = "ModelessSwitch"
+			SourceSubItemID = "11"
+			SourceRefID = "1187263204"
+			TargetRefID = "149583209"
+			ConLineWidth = "2"
+			ConLineColour = "0,0,0,0,0"/>
+		<Connection
+			CID = "149576222"
+			Layer = "DesignElements"
+			Trigger = "LeftClick"
+			Type = "Navigation"
+			SubType = "ModelessSwitch"
+			SourceSubItemID = "12"
+			SourceRefID = "1187263204"
+			TargetRefID = "149555936"
+			ConLineWidth = "2"
+			ConLineColour = "0,0,0,0,0"/>
+		<Connection
+			CID = "149578252"
+			Layer = "DesignElements"
+			Trigger = "LeftClick"
+			Type = "Navigation"
+			SubType = "ModelessSwitch"
+			SourceSubItemID = "13"
+			SourceRefID = "1187263204"
+			TargetRefID = "149577959"
+			ConLineWidth = "2"
+			ConLineColour = "0,0,0,0,0"/>
+		<Connection
+			CID = "149568006"
+			Layer = "DesignElements"
+			Trigger = "LeftClick"
+			Type = "Navigation"
+			SubType = "ModelessSwitch"
+			SourceSubItemID = "16"
+			SourceRefID = "1187263204"
+			TargetRefID = "149567107"
+			ConLineWidth = "2"
+			ConLineColour = "0,0,0,0,0"/>
+		<Connection
+			CID = "149570493"
+			Layer = "DesignElements"
+			Trigger = "LeftClick"
+			Type = "Navigation"
+			SubType = "ModelessSwitch"
+			SourceSubItemID = "14"
+			SourceRefID = "1187263204"
+			TargetRefID = "149560776"
+			ConLineWidth = "2"
+			ConLineColour = "0,0,0,0,0"/>
+		<Connection
+			CID = "149556951"
+			Layer = "DesignElements"
+			Trigger = "LeftClick"
+			Type = "Navigation"
+			SubType = "ModelessSwitch"
+			SourceSubItemID = "15"
+			SourceRefID = "1187263204"
+			TargetRefID = "149561883"
+			ConLineWidth = "2"
+			ConLineColour = "0,0,0,0,0"/>
+		<Connection
+			CID = "149577018"
+			Layer = "DesignElements"
+			Trigger = "LeftClick"
+			Type = "Navigation"
+			SubType = "ModelessSwitch"
+			SourceSubItemID = "17"
+			SourceRefID = "1187263204"
+			TargetRefID = "149573485"
+			ConLineWidth = "2"
+			ConLineColour = "0,0,0,0,0"/>
+	</Connections>
+	<Groups
+		CID = "3"/>
+	<SelectionGroups
+		CID = "4"/>
+	<Notes
+		CID = "5">
+		<Note
+			CID = "617762769"
+			Name = "Description"
+			NextCID = "2">
+			<Text
+				CID = "1">
+				
+			</Text>
+		</Note>
+	</Notes>
+</Screen>
