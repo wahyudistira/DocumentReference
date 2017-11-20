@@ -121,6 +121,16 @@
 			OriginalRoot = "$Project"
 			OriginalPath = "LookUp\LookUpZipcodeForm.gui"/>
 		<FileInfo
+			ID = "59D6C68F-05EB-4DB9-BFB321E6BBA7C515"
+			RelativePath = "CITS\Utama\RightMenuForm.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "CITS\Utama\RightMenuForm.gui"/>
+		<FileInfo
+			ID = "67FB0589-8DAB-4A4E-89C5414A26A3075A"
+			RelativePath = "CITS\Master\MasterMappingForm.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "CITS\Master\MasterMappingForm.gui"/>
+		<FileInfo
 			ID = "6AE8DFE0-2B08-481F-A63D9C97D932C8E3"
 			RelativePath = "CITS\Monitoring\MonitoringForm.gui"
 			OriginalRoot = "$Project"
@@ -150,6 +160,11 @@
 			RelativePath = "SmsBlast\TelecallListForm.gui"
 			OriginalRoot = "$Project"
 			OriginalPath = "SmsBlast\TelecallListForm.gui"/>
+		<FileInfo
+			ID = "8C063D83-A2C8-4C35-91235ED3098D5825"
+			RelativePath = "CITS\Master\LookUpMappingForm.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "CITS\Master\LookUpMappingForm.gui"/>
 		<FileInfo
 			ID = "8C5002AF-1A0E-424B-9D3184EAA12854F7"
 			RelativePath = "CardInventory\ApprovedUploadGemaltoForm.gui"
@@ -188,10 +203,21 @@
 			OriginalPath = "Monitoring\MonitoringAtmForm.gui"
 			IsDeleted = "1"/>
 		<FileInfo
+			ID = "A09098DA-B90C-4F6B-A55251E50EB52A64"
+			RelativePath = "CITS\Master\UploadZipCodeForm.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "CITS\Master\UploadZipCodeForm.gui"
+			IsDeleted = "1"/>
+		<FileInfo
 			ID = "A3F28890-97C3-4D7F-863CCA58D9BB0135"
 			RelativePath = "SmsBlast\TeleCallUploadForm.gui"
 			OriginalRoot = "$Project"
 			OriginalPath = "SmsBlast\TeleCallUploadForm.gui"/>
+		<FileInfo
+			ID = "A5BECE93-87D0-4583-81F24E6F25C3165B"
+			RelativePath = "CITS\Master\MasterZipCodeForm.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "CITS\Master\MasterZipCodeForm.gui"/>
 		<FileInfo
 			ID = "A8C4A29C-DDEB-4CEB-AA6237EE125EE2AD"
 			RelativePath = "CardInventory\CardInventoryList.gui"

@@ -1,0 +1,625 @@
+<Screen
+	CID = "134704134"
+	AppID = "2"
+	AppVer = "4.2.115.0"
+	DocID = ""
+	HasCanvas = "0"
+	Width = "640"
+	Height = "480"
+	NextCID = "6"
+	RepresentativeRefID = "0"
+	UseDefRepresentative = "1">
+	<Elements
+		CID = "1">
+		<Element
+			CID = "211878316"
+			Type = "WebPagePart"
+			X = "594"
+			Y = "80"
+			Width = "185"
+			Height = "531"
+			Flags = "0"
+			FillColour = "255,255,255,0,0"
+			MarginLeft = "8"
+			MarginRight = "41"
+			MarginTop = "8"
+			MarginBottom = "12"
+			Fill = "None"/>
+		<Element
+			CID = "211896212"
+			Type = "MenuPopup"
+			X = "597"
+			Y = "96"
+			Width = "158"
+			Height = "494"
+			Flags = "3"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			NextItemID = "27"
+			LeftMargin = "20"
+			RightMargin = "16"
+			Mirror = "0">
+			<MenuPopupItem
+				ItemID = "1"
+				Type = "CommandOption"
+				Item = "Monitoring"
+				Hotkey = ""
+				IsDisabled = "0"/>
+			<MenuPopupItem
+				ItemID = "2"
+				Type = "Separator"
+				Item = ""
+				Hotkey = ""
+				IsDisabled = "0"/>
+			<MenuPopupItem
+				ItemID = "3"
+				Type = "CommandOption"
+				Item = "Manage ATM"
+				Hotkey = ""
+				IsDisabled = "0"/>
+			<MenuPopupItem
+				ItemID = "4"
+				Type = "CommandOption"
+				Item = "   Daftar ATM"
+				Hotkey = ""
+				IsDisabled = "0"/>
+			<MenuPopupItem
+				ItemID = "5"
+				Type = "CommandOption"
+				Item = "   Upload ATM"
+				Hotkey = ""
+				IsDisabled = "0"/>
+			<MenuPopupItem
+				ItemID = "6"
+				Type = "CommandOption"
+				Item = "   Approval ATM"
+				Hotkey = ""
+				IsDisabled = "0"/>
+			<MenuPopupItem
+				ItemID = "22"
+				Type = "Separator"
+				Item = ""
+				Hotkey = ""
+				IsDisabled = "0"/>
+			<MenuPopupItem
+				ItemID = "16"
+				Type = "CommandOption"
+				Item = "SMS"
+				Hotkey = ""
+				IsDisabled = "0"/>
+			<MenuPopupItem
+				ItemID = "7"
+				Type = "CommandOption"
+				Item = "   Daftar SMS"
+				Hotkey = ""
+				IsDisabled = "0"/>
+			<MenuPopupItem
+				ItemID = "8"
+				Type = "CommandOption"
+				Item = "   Upload SMS"
+				Hotkey = ""
+				IsDisabled = "0"/>
+			<MenuPopupItem
+				ItemID = "9"
+				Type = "CommandOption"
+				Item = "   Daftar Telecall"
+				Hotkey = ""
+				IsDisabled = "0"/>
+			<MenuPopupItem
+				ItemID = "10"
+				Type = "CommandOption"
+				Item = "   Upload Telecall"
+				Hotkey = ""
+				IsDisabled = "0"/>
+			<MenuPopupItem
+				ItemID = "23"
+				Type = "Separator"
+				Item = ""
+				Hotkey = ""
+				IsDisabled = "0"/>
+			<MenuPopupItem
+				ItemID = "17"
+				Type = "CommandOption"
+				Item = "PENGEMBALIAN"
+				Hotkey = ""
+				IsDisabled = "0"/>
+			<MenuPopupItem
+				ItemID = "11"
+				Type = "CommandOption"
+				Item = "   ATM"
+				Hotkey = ""
+				IsDisabled = "0"/>
+			<MenuPopupItem
+				ItemID = "12"
+				Type = "CommandOption"
+				Item = "   Barcode"
+				Hotkey = ""
+				IsDisabled = "0"/>
+			<MenuPopupItem
+				ItemID = "24"
+				Type = "Separator"
+				Item = ""
+				Hotkey = ""
+				IsDisabled = "0"/>
+			<MenuPopupItem
+				ItemID = "18"
+				Type = "CommandOption"
+				Item = "REPORT"
+				Hotkey = ""
+				IsDisabled = "0"/>
+			<MenuPopupItem
+				ItemID = "13"
+				Type = "CommandOption"
+				Item = "   Invoice"
+				Hotkey = ""
+				IsDisabled = "0"/>
+			<MenuPopupItem
+				ItemID = "14"
+				Type = "CommandOption"
+				Item = "   SMS Blast"
+				Hotkey = ""
+				IsDisabled = "0"/>
+			<MenuPopupItem
+				ItemID = "15"
+				Type = "CommandOption"
+				Item = "   StatusSMS"
+				Hotkey = ""
+				IsDisabled = "0"/>
+			<MenuPopupItem
+				ItemID = "25"
+				Type = "Separator"
+				Item = ""
+				Hotkey = ""
+				IsDisabled = "0"/>
+			<MenuPopupItem
+				ItemID = "19"
+				Type = "CommandOption"
+				Item = "MASTER"
+				Hotkey = ""
+				IsDisabled = "0"/>
+			<MenuPopupItem
+				ItemID = "20"
+				Type = "CommandOption"
+				Item = "    ZipCode"
+				Hotkey = ""
+				IsDisabled = "0"/>
+			<MenuPopupItem
+				ItemID = "21"
+				Type = "CommandOption"
+				Item = "    MappingData"
+				Hotkey = ""
+				IsDisabled = "0"/>
+			<MenuPopupItem
+				ItemID = "26"
+				Type = "Separator"
+				Item = ""
+				Hotkey = ""
+				IsDisabled = "0"/>
+		</Element>
+		<Element
+			CID = "1215853865"
+			Type = "ComponentThumbnail"
+			X = "712"
+			Y = "-286"
+			Width = "120"
+			Height = "120"
+			Flags = "3"
+			BackgroundColour = "255,255,255,0,6"
+			FileID = "3107EE2A-CE73-4BF5-93BC7CC69995D712"
+			RootPath = "$Container"
+			Filename = "..\ATM\DaftarATMForm.gui"
+			Background = "Transparent"
+			HorzAlign = "Left"
+			VertAlign = "Top"
+			MaintainSize = "1"/>
+		<Element
+			CID = "1215837904"
+			Type = "ComponentThumbnail"
+			X = "965"
+			Y = "-23"
+			Width = "120"
+			Height = "120"
+			Flags = "3"
+			BackgroundColour = "255,255,255,0,6"
+			FileID = "FD759A76-6848-4B7C-9562FC1D74746424"
+			RootPath = "$Container"
+			Filename = "..\ATM\ApprovedMainForm.gui"
+			Background = "Transparent"
+			HorzAlign = "Left"
+			VertAlign = "Top"
+			MaintainSize = "1"/>
+		<Element
+			CID = "1215838935"
+			Type = "ComponentThumbnail"
+			X = "915"
+			Y = "-199"
+			Width = "120"
+			Height = "120"
+			Flags = "3"
+			BackgroundColour = "255,255,255,0,6"
+			FileID = "23C24B99-1BD0-4CED-9CEB02B4CEEB67DB"
+			RootPath = "$Container"
+			Filename = "..\ATM\UploadMainForm.gui"
+			Background = "Transparent"
+			HorzAlign = "Left"
+			VertAlign = "Top"
+			MaintainSize = "1"/>
+		<Element
+			CID = "1215836542"
+			Type = "ComponentThumbnail"
+			X = "861"
+			Y = "113"
+			Width = "120"
+			Height = "120"
+			Flags = "3"
+			BackgroundColour = "255,255,255,0,6"
+			FileID = "8CBD04C6-C4C5-4F13-86E1EDF4E624EFC9"
+			RootPath = "$Container"
+			Filename = "..\SMS\DaftarSmsForm.gui"
+			Background = "Transparent"
+			HorzAlign = "Left"
+			VertAlign = "Top"
+			MaintainSize = "1"/>
+		<Element
+			CID = "1215851585"
+			Type = "ComponentThumbnail"
+			X = "1082"
+			Y = "133"
+			Width = "120"
+			Height = "120"
+			Flags = "3"
+			BackgroundColour = "255,255,255,0,6"
+			FileID = "57F71D99-6CFC-4804-B004B3FFEC65CC1E"
+			RootPath = "$Container"
+			Filename = "..\SMS\UploadSmsForm.gui"
+			Background = "Transparent"
+			HorzAlign = "Left"
+			VertAlign = "Top"
+			MaintainSize = "1"/>
+		<Element
+			CID = "1215834878"
+			Type = "ComponentThumbnail"
+			X = "857"
+			Y = "245"
+			Width = "120"
+			Height = "120"
+			Flags = "3"
+			BackgroundColour = "255,255,255,0,6"
+			FileID = "6D84083F-BFE5-4F29-8393D639B25F08CE"
+			RootPath = "$Container"
+			Filename = "..\SMS\DaftarTelecallForm.gui"
+			Background = "Transparent"
+			HorzAlign = "Left"
+			VertAlign = "Top"
+			MaintainSize = "1"/>
+		<Element
+			CID = "1215823914"
+			Type = "ComponentThumbnail"
+			X = "1005"
+			Y = "269"
+			Width = "120"
+			Height = "120"
+			Flags = "3"
+			BackgroundColour = "255,255,255,0,6"
+			FileID = "7DCC9EF1-4475-4279-91389A49C6F0DCB6"
+			RootPath = "$Container"
+			Filename = "..\SMS\UploadTelecallForm.gui"
+			Background = "Transparent"
+			HorzAlign = "Left"
+			VertAlign = "Top"
+			MaintainSize = "1"/>
+		<Element
+			CID = "1215852848"
+			Type = "ComponentThumbnail"
+			X = "837"
+			Y = "501"
+			Width = "120"
+			Height = "120"
+			Flags = "3"
+			BackgroundColour = "255,255,255,0,6"
+			FileID = "E499D270-A28E-4553-AA627BB54D5578BB"
+			RootPath = "$Container"
+			Filename = "..\Pemgembalian\BarcodingATMForm.gui"
+			Background = "Transparent"
+			HorzAlign = "Left"
+			VertAlign = "Top"
+			MaintainSize = "1"/>
+		<Element
+			CID = "1215831661"
+			Type = "ComponentThumbnail"
+			X = "1030"
+			Y = "450"
+			Width = "120"
+			Height = "120"
+			Flags = "3"
+			BackgroundColour = "255,255,255,0,6"
+			FileID = "8C637A2F-EE73-451D-8E1613D26F0E1BBE"
+			RootPath = "$Container"
+			Filename = "..\Pemgembalian\CardRetrievalForm.gui"
+			Background = "Transparent"
+			HorzAlign = "Left"
+			VertAlign = "Top"
+			MaintainSize = "1"/>
+		<Element
+			CID = "1215848447"
+			Type = "ComponentThumbnail"
+			X = "564"
+			Y = "-166"
+			Width = "120"
+			Height = "120"
+			Flags = "3"
+			BackgroundColour = "255,255,255,0,6"
+			FileID = "6AE8DFE0-2B08-481F-A63D9C97D932C8E3"
+			RootPath = "$Container"
+			Filename = "..\Monitoring\MonitoringForm.gui"
+			Background = "Transparent"
+			HorzAlign = "Left"
+			VertAlign = "Top"
+			MaintainSize = "1"/>
+		<Element
+			CID = "1215832284"
+			Type = "ComponentThumbnail"
+			X = "363"
+			Y = "509"
+			Width = "120"
+			Height = "120"
+			Flags = "3"
+			BackgroundColour = "255,255,255,0,6"
+			FileID = "46DB49A6-EC31-420A-AE147F0CEFB05FA2"
+			RootPath = "$Container"
+			Filename = "..\Report\RptStatusATMForm.gui"
+			Background = "Transparent"
+			HorzAlign = "Left"
+			VertAlign = "Top"
+			MaintainSize = "1"/>
+		<Element
+			CID = "1215850811"
+			Type = "ComponentThumbnail"
+			X = "847"
+			Y = "651"
+			Width = "120"
+			Height = "120"
+			Flags = "3"
+			BackgroundColour = "255,255,255,0,6"
+			FileID = "AFF785BB-E0B3-48D5-A76E8E27AE3D75E5"
+			RootPath = "$Container"
+			Filename = "..\Report\RptSmsBlastForm.gui"
+			Background = "Transparent"
+			HorzAlign = "Left"
+			VertAlign = "Top"
+			MaintainSize = "1"/>
+		<Element
+			CID = "1215847465"
+			Type = "ComponentThumbnail"
+			X = "381"
+			Y = "358"
+			Width = "120"
+			Height = "120"
+			Flags = "3"
+			BackgroundColour = "255,255,255,0,6"
+			FileID = "EF001CAD-3B0B-4225-A3959F8A59D591CB"
+			RootPath = "$Container"
+			Filename = "..\Report\RptInoviceForm.gui"
+			Background = "Transparent"
+			HorzAlign = "Left"
+			VertAlign = "Top"
+			MaintainSize = "1"/>
+		<Element
+			CID = "1215830122"
+			Type = "ComponentThumbnail"
+			X = "343"
+			Y = "690"
+			Width = "120"
+			Height = "120"
+			Flags = "3"
+			BackgroundColour = "255,255,255,0,6"
+			FileID = "67FB0589-8DAB-4A4E-89C5414A26A3075A"
+			RootPath = "$Container"
+			Filename = "..\Master\MasterMappingForm.gui"
+			Background = "Transparent"
+			HorzAlign = "Left"
+			VertAlign = "Top"
+			MaintainSize = "1"/>
+		<Element
+			CID = "1215854839"
+			Type = "ComponentThumbnail"
+			X = "528"
+			Y = "711"
+			Width = "120"
+			Height = "120"
+			Flags = "3"
+			BackgroundColour = "255,255,255,0,6"
+			FileID = "A5BECE93-87D0-4583-81F24E6F25C3165B"
+			RootPath = "$Container"
+			Filename = "..\Master\MasterZipCodeForm.gui"
+			Background = "Transparent"
+			HorzAlign = "Left"
+			VertAlign = "Top"
+			MaintainSize = "1"/>
+	</Elements>
+	<Connections
+		CID = "2">
+		<Connection
+			CID = "1215846926"
+			Layer = "DesignElements"
+			Trigger = "LeftClick"
+			Type = "Navigation"
+			SubType = "ModelessSwitchTop"
+			SourceSubItemID = "1"
+			SourceRefID = "211896212"
+			TargetRefID = "1215848447"
+			ConLineWidth = "2"
+			ConLineColour = "0,0,0,0,0"/>
+		<Connection
+			CID = "1215833729"
+			Layer = "DesignElements"
+			Trigger = "LeftClick"
+			Type = "Navigation"
+			SubType = "ModelessSwitchTop"
+			SourceSubItemID = "4"
+			SourceRefID = "211896212"
+			TargetRefID = "1215853865"
+			ConLineWidth = "2"
+			ConLineColour = "0,0,0,0,0"/>
+		<Connection
+			CID = "1215842863"
+			Layer = "DesignElements"
+			Trigger = "LeftClick"
+			Type = "Navigation"
+			SubType = "ModelessSwitchTop"
+			SourceSubItemID = "5"
+			SourceRefID = "211896212"
+			TargetRefID = "1215838935"
+			ConLineWidth = "2"
+			ConLineColour = "0,0,0,0,0"/>
+		<Connection
+			CID = "1215855488"
+			Layer = "DesignElements"
+			Trigger = "LeftClick"
+			Type = "Navigation"
+			SubType = "ModelessSwitchTop"
+			SourceSubItemID = "6"
+			SourceRefID = "211896212"
+			TargetRefID = "1215837904"
+			ConLineWidth = "2"
+			ConLineColour = "0,0,0,0,0"/>
+		<Connection
+			CID = "1215835183"
+			Layer = "DesignElements"
+			Trigger = "LeftClick"
+			Type = "Navigation"
+			SubType = "ModelessSwitchTop"
+			SourceSubItemID = "7"
+			SourceRefID = "211896212"
+			TargetRefID = "1215836542"
+			ConLineWidth = "2"
+			ConLineColour = "0,0,0,0,0"/>
+		<Connection
+			CID = "1215840050"
+			Layer = "DesignElements"
+			Trigger = "LeftClick"
+			Type = "Navigation"
+			SubType = "ModelessSwitchTop"
+			SourceSubItemID = "8"
+			SourceRefID = "211896212"
+			TargetRefID = "1215851585"
+			ConLineWidth = "2"
+			ConLineColour = "0,0,0,0,0"/>
+		<Connection
+			CID = "1215856169"
+			Layer = "DesignElements"
+			Trigger = "LeftClick"
+			Type = "Navigation"
+			SubType = "ModelessSwitchTop"
+			SourceSubItemID = "9"
+			SourceRefID = "211896212"
+			TargetRefID = "1215834878"
+			ConLineWidth = "2"
+			ConLineColour = "0,0,0,0,0"/>
+		<Connection
+			CID = "1215849396"
+			Layer = "DesignElements"
+			Trigger = "LeftClick"
+			Type = "Navigation"
+			SubType = "ModelessSwitchTop"
+			SourceSubItemID = "10"
+			SourceRefID = "211896212"
+			TargetRefID = "1215823914"
+			ConLineWidth = "2"
+			ConLineColour = "0,0,0,0,0"/>
+		<Connection
+			CID = "1215851634"
+			Layer = "DesignElements"
+			Trigger = "LeftClick"
+			Type = "Navigation"
+			SubType = "ModelessSwitchTop"
+			SourceSubItemID = "11"
+			SourceRefID = "211896212"
+			TargetRefID = "1215831661"
+			ConLineWidth = "2"
+			ConLineColour = "0,0,0,0,0"/>
+		<Connection
+			CID = "1215824908"
+			Layer = "DesignElements"
+			Trigger = "LeftClick"
+			Type = "Navigation"
+			SubType = "ModelessSwitchTop"
+			SourceSubItemID = "12"
+			SourceRefID = "211896212"
+			TargetRefID = "1215852848"
+			ConLineWidth = "2"
+			ConLineColour = "0,0,0,0,0"/>
+		<Connection
+			CID = "1215843826"
+			Layer = "DesignElements"
+			Trigger = "LeftClick"
+			Type = "Navigation"
+			SubType = "ModelessSwitchTop"
+			SourceSubItemID = "13"
+			SourceRefID = "211896212"
+			TargetRefID = "1215847465"
+			ConLineWidth = "2"
+			ConLineColour = "0,0,0,0,0"/>
+		<Connection
+			CID = "1215826833"
+			Layer = "DesignElements"
+			Trigger = "LeftClick"
+			Type = "Navigation"
+			SubType = "ModelessSwitchTop"
+			SourceSubItemID = "14"
+			SourceRefID = "211896212"
+			TargetRefID = "1215850811"
+			ConLineWidth = "2"
+			ConLineColour = "0,0,0,0,0"/>
+		<Connection
+			CID = "1215846510"
+			Layer = "DesignElements"
+			Trigger = "LeftClick"
+			Type = "Navigation"
+			SubType = "ModelessSwitchTop"
+			SourceSubItemID = "15"
+			SourceRefID = "211896212"
+			TargetRefID = "1215832284"
+			ConLineWidth = "2"
+			ConLineColour = "0,0,0,0,0"/>
+		<Connection
+			CID = "1215830426"
+			Layer = "DesignElements"
+			Trigger = "LeftClick"
+			Type = "Navigation"
+			SubType = "ModelessSwitchTop"
+			SourceSubItemID = "21"
+			SourceRefID = "211896212"
+			TargetRefID = "1215830122"
+			ConLineWidth = "2"
+			ConLineColour = "0,0,0,0,0"/>
+		<Connection
+			CID = "1215853563"
+			Layer = "DesignElements"
+			Trigger = "LeftClick"
+			Type = "Navigation"
+			SubType = "ModelessSwitchTop"
+			SourceSubItemID = "20"
+			SourceRefID = "211896212"
+			TargetRefID = "1215854839"
+			ConLineWidth = "2"
+			ConLineColour = "0,0,0,0,0"/>
+	</Connections>
+	<Groups
+		CID = "3"/>
+	<SelectionGroups
+		CID = "4"/>
+	<Notes
+		CID = "5">
+		<Note
+			CID = "134691452"
+			Name = "Description"
+			NextCID = "2">
+			<Text
+				CID = "1">
+				
+			</Text>
+		</Note>
+	</Notes>
+</Screen>
