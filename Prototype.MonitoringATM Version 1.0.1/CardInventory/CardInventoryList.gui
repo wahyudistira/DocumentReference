@@ -1,0 +1,1448 @@
+<Screen
+	CID = "82789086"
+	AppID = "2"
+	AppVer = "4.2.115.0"
+	DocID = ""
+	HasCanvas = "0"
+	Width = "640"
+	Height = "480"
+	NextCID = "6"
+	RepresentativeRefID = "0"
+	UseDefRepresentative = "1">
+	<Elements
+		CID = "1">
+		<Element
+			CID = "2077456642"
+			Type = "Rectangle"
+			X = "-797"
+			Y = "183"
+			Width = "926"
+			Height = "440"
+			Flags = "0"
+			HighlightColour = "250,250,250,0,21"
+			ShadowColour = "172,168,153,0,17"
+			FillColour = "251,240,236,0,0"
+			GradientColour = "255,255,255,0,0"
+			BorderColour = "28,81,128,0,7"
+			TextColour = "0,0,0,0,19"
+			Fill = "VerticalGradient"
+			Border = "None"
+			TextPlacement = "Top"
+			HorzAlign = "Left"
+			BorderDepth = "2"
+			BorderWidth = "2"
+			Text = ""
+			TextOutsideExtent = "1"
+			IsDisabled = "0"/>
+		<Element
+			CID = "2077457757"
+			Type = "StaticText"
+			X = "-797"
+			Y = "183"
+			Width = "926"
+			Height = "25"
+			Flags = "0"
+			FillColour = "34,32,31,0,0"
+			TextColour = "255,255,255,0,0"
+			Typeface = "Arial"
+			FontAttributes = "1"
+			TextSize = "100"
+			Text = "Card Inventory List"
+			IsDisabled = "0"
+			Fill = "Solid"
+			HorzAlign = "Left"
+			VertAlign = "Centre"/>
+		<Element
+			CID = "2077453723"
+			Type = "Table"
+			X = "-787"
+			Y = "281"
+			Width = "896"
+			Height = "266"
+			Flags = "0"
+			HeaderBackgroundColour = "241,108,46,0,0"
+			HeaderBorderColour = "172,168,153,0,17"
+			HeaderTextColour = "255,255,255,0,0"
+			BackgroundColour = "172,168,153,0,13"
+			BorderColour = "102,102,102,0,0"
+			GridLineColour = "241,239,226,0,23"
+			SortedBlendColour = "64,64,64,0,0"
+			DefOddBackgroundColour = "254,197,177,0,0"
+			DefEvenBackgroundColour = "255,255,255,0,0"
+			DefTextColour = "0,0,0,0,9"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			NextColumnID = "30"
+			IsFlat = "0"
+			IsHeaderBold = "1"
+			IsTransparent = "0"
+			HasBorder = "1"
+			HasHorzScrollBar = "1"
+			HasVertScrollBar = "1"
+			Mirror = "0"
+			HasHorzLines = "1"
+			HasVertLines = "1"
+			HasExtHorzLines = "0"
+			HasExtVertLines = "0"
+			ExtendColumnHeaders = "1"
+			ExtendColumns = "1"
+			ExtendRows = "1"
+			VariableHeightRows = "1"
+			FullRowSelection = "1"
+			HeaderWordWrap = "0"
+			WordWrap = "0"
+			HeaderSpace = "0"
+			HeaderHeight = "25"
+			RowHeight = "18"
+			FirstVisibleRow = "0"
+			FixedColumns = "0"
+			SortedColumn = "0"
+			SortedBlendFactor = "0.000000"
+			ColumnSort = "Ascending"
+			HeaderStyle = "Standard"
+			FixedCellStyle = "SemiFlat">
+			<Columns>
+				<ColumnItem
+					OddBackgroundColour = "255,255,255,0,6"
+					EvenBackgroundColour = "255,255,255,0,6"
+					TextColour = "0,0,0,0,9"
+					ColumnID = "1"
+					Heading = ""
+					Width = "80"
+					HeaderMargin = "0"
+					CellMargin = "0"
+					HasCustomOddBgColour = "0"
+					HasCustomEvenBgColour = "0"
+					HasCustomTextColour = "0"
+					HeadingAlignment = "Centre"
+					CellAlignment = "Centre"/>
+				<ColumnItem
+					OddBackgroundColour = "255,255,255,0,6"
+					EvenBackgroundColour = "255,255,255,0,6"
+					TextColour = "0,0,0,0,9"
+					ColumnID = "29"
+					Heading = "No"
+					Width = "26"
+					HeaderMargin = "0"
+					CellMargin = "0"
+					HasCustomOddBgColour = "0"
+					HasCustomEvenBgColour = "0"
+					HasCustomTextColour = "0"
+					HeadingAlignment = "Centre"
+					CellAlignment = "Centre"/>
+				<ColumnItem
+					OddBackgroundColour = "255,255,255,0,6"
+					EvenBackgroundColour = "255,255,255,0,6"
+					TextColour = "0,0,0,0,9"
+					ColumnID = "22"
+					Heading = "DATE"
+					Width = "60"
+					HeaderMargin = "0"
+					CellMargin = "0"
+					HasCustomOddBgColour = "0"
+					HasCustomEvenBgColour = "0"
+					HasCustomTextColour = "0"
+					HeadingAlignment = "Centre"
+					CellAlignment = "Centre"/>
+				<ColumnItem
+					OddBackgroundColour = "255,255,255,0,6"
+					EvenBackgroundColour = "255,255,255,0,6"
+					TextColour = "0,0,0,0,9"
+					ColumnID = "21"
+					Heading = "CARD TYPE"
+					Width = "90"
+					HeaderMargin = "0"
+					CellMargin = "0"
+					HasCustomOddBgColour = "0"
+					HasCustomEvenBgColour = "0"
+					HasCustomTextColour = "0"
+					HeadingAlignment = "Left"
+					CellAlignment = "Centre"/>
+				<ColumnItem
+					OddBackgroundColour = "255,255,255,0,6"
+					EvenBackgroundColour = "255,255,255,0,6"
+					TextColour = "0,0,0,0,9"
+					ColumnID = "23"
+					Heading = "REF NO"
+					Width = "80"
+					HeaderMargin = "0"
+					CellMargin = "0"
+					HasCustomOddBgColour = "0"
+					HasCustomEvenBgColour = "0"
+					HasCustomTextColour = "0"
+					HeadingAlignment = "Left"
+					CellAlignment = "Centre"/>
+				<ColumnItem
+					OddBackgroundColour = "255,255,255,0,6"
+					EvenBackgroundColour = "255,255,255,0,6"
+					TextColour = "0,0,0,0,9"
+					ColumnID = "2"
+					Heading = "PAN"
+					Width = "80"
+					HeaderMargin = "0"
+					CellMargin = "0"
+					HasCustomOddBgColour = "0"
+					HasCustomEvenBgColour = "0"
+					HasCustomTextColour = "0"
+					HeadingAlignment = "Left"
+					CellAlignment = "Centre"/>
+				<ColumnItem
+					OddBackgroundColour = "255,255,255,0,6"
+					EvenBackgroundColour = "255,255,255,0,6"
+					TextColour = "0,0,0,0,9"
+					ColumnID = "4"
+					Heading = "NAME ON CARD"
+					Width = "90"
+					HeaderMargin = "0"
+					CellMargin = "0"
+					HasCustomOddBgColour = "0"
+					HasCustomEvenBgColour = "0"
+					HasCustomTextColour = "0"
+					HeadingAlignment = "Centre"
+					CellAlignment = "Right"/>
+				<ColumnItem
+					OddBackgroundColour = "255,255,255,0,6"
+					EvenBackgroundColour = "255,255,255,0,6"
+					TextColour = "0,0,0,0,9"
+					ColumnID = "10"
+					Heading = "KTP"
+					Width = "81"
+					HeaderMargin = "0"
+					CellMargin = "0"
+					HasCustomOddBgColour = "0"
+					HasCustomEvenBgColour = "0"
+					HasCustomTextColour = "0"
+					HeadingAlignment = "Centre"
+					CellAlignment = "Right"/>
+				<ColumnItem
+					OddBackgroundColour = "255,255,255,0,6"
+					EvenBackgroundColour = "255,255,255,0,6"
+					TextColour = "0,0,0,0,9"
+					ColumnID = "12"
+					Heading = "CIF"
+					Width = "80"
+					HeaderMargin = "0"
+					CellMargin = "0"
+					HasCustomOddBgColour = "0"
+					HasCustomEvenBgColour = "0"
+					HasCustomTextColour = "0"
+					HeadingAlignment = "Centre"
+					CellAlignment = "Right"/>
+				<ColumnItem
+					OddBackgroundColour = "255,255,255,0,6"
+					EvenBackgroundColour = "255,255,255,0,6"
+					TextColour = "0,0,0,0,9"
+					ColumnID = "14"
+					Heading = "NAME CIF"
+					Width = "76"
+					HeaderMargin = "0"
+					CellMargin = "0"
+					HasCustomOddBgColour = "0"
+					HasCustomEvenBgColour = "0"
+					HasCustomTextColour = "0"
+					HeadingAlignment = "Centre"
+					CellAlignment = "Right"/>
+				<ColumnItem
+					OddBackgroundColour = "255,255,255,0,6"
+					EvenBackgroundColour = "255,255,255,0,6"
+					TextColour = "0,0,0,0,9"
+					ColumnID = "15"
+					Heading = "NO ACC"
+					Width = "90"
+					HeaderMargin = "0"
+					CellMargin = "0"
+					HasCustomOddBgColour = "0"
+					HasCustomEvenBgColour = "0"
+					HasCustomTextColour = "0"
+					HeadingAlignment = "Centre"
+					CellAlignment = "Right"/>
+				<ColumnItem
+					OddBackgroundColour = "255,255,255,0,6"
+					EvenBackgroundColour = "255,255,255,0,6"
+					TextColour = "0,0,0,0,9"
+					ColumnID = "16"
+					Heading = "CARD OF STATUS"
+					Width = "90"
+					HeaderMargin = "0"
+					CellMargin = "0"
+					HasCustomOddBgColour = "0"
+					HasCustomEvenBgColour = "0"
+					HasCustomTextColour = "0"
+					HeadingAlignment = "Centre"
+					CellAlignment = "Right"/>
+				<ColumnItem
+					OddBackgroundColour = "255,255,255,0,6"
+					EvenBackgroundColour = "255,255,255,0,6"
+					TextColour = "0,0,0,0,9"
+					ColumnID = "17"
+					Heading = "MOBILE"
+					Width = "161"
+					HeaderMargin = "0"
+					CellMargin = "0"
+					HasCustomOddBgColour = "0"
+					HasCustomEvenBgColour = "0"
+					HasCustomTextColour = "0"
+					HeadingAlignment = "Centre"
+					CellAlignment = "Right"/>
+				<ColumnItem
+					OddBackgroundColour = "255,255,255,0,6"
+					EvenBackgroundColour = "255,255,255,0,6"
+					TextColour = "0,0,0,0,9"
+					ColumnID = "18"
+					Heading = "DC FLAG"
+					Width = "90"
+					HeaderMargin = "0"
+					CellMargin = "0"
+					HasCustomOddBgColour = "0"
+					HasCustomEvenBgColour = "0"
+					HasCustomTextColour = "0"
+					HeadingAlignment = "Centre"
+					CellAlignment = "Right"/>
+				<ColumnItem
+					OddBackgroundColour = "255,255,255,0,6"
+					EvenBackgroundColour = "255,255,255,0,6"
+					TextColour = "0,0,0,0,9"
+					ColumnID = "19"
+					Heading = "ADDRESS1"
+					Width = "90"
+					HeaderMargin = "0"
+					CellMargin = "0"
+					HasCustomOddBgColour = "0"
+					HasCustomEvenBgColour = "0"
+					HasCustomTextColour = "0"
+					HeadingAlignment = "Centre"
+					CellAlignment = "Right"/>
+				<ColumnItem
+					OddBackgroundColour = "255,255,255,0,6"
+					EvenBackgroundColour = "255,255,255,0,6"
+					TextColour = "0,0,0,0,9"
+					ColumnID = "20"
+					Heading = "ADDRESS2"
+					Width = "90"
+					HeaderMargin = "0"
+					CellMargin = "0"
+					HasCustomOddBgColour = "0"
+					HasCustomEvenBgColour = "0"
+					HasCustomTextColour = "0"
+					HeadingAlignment = "Centre"
+					CellAlignment = "Right"/>
+				<ColumnItem
+					OddBackgroundColour = "255,255,255,0,6"
+					EvenBackgroundColour = "255,255,255,0,6"
+					TextColour = "0,0,0,0,9"
+					ColumnID = "24"
+					Heading = "ADDRESS3"
+					Width = "90"
+					HeaderMargin = "0"
+					CellMargin = "0"
+					HasCustomOddBgColour = "0"
+					HasCustomEvenBgColour = "0"
+					HasCustomTextColour = "0"
+					HeadingAlignment = "Centre"
+					CellAlignment = "Right"/>
+				<ColumnItem
+					OddBackgroundColour = "255,255,255,0,6"
+					EvenBackgroundColour = "255,255,255,0,6"
+					TextColour = "0,0,0,0,9"
+					ColumnID = "25"
+					Heading = "ADDRESS4"
+					Width = "90"
+					HeaderMargin = "0"
+					CellMargin = "0"
+					HasCustomOddBgColour = "0"
+					HasCustomEvenBgColour = "0"
+					HasCustomTextColour = "0"
+					HeadingAlignment = "Centre"
+					CellAlignment = "Right"/>
+				<ColumnItem
+					OddBackgroundColour = "255,255,255,0,6"
+					EvenBackgroundColour = "255,255,255,0,6"
+					TextColour = "0,0,0,0,9"
+					ColumnID = "26"
+					Heading = "KYC"
+					Width = "50"
+					HeaderMargin = "0"
+					CellMargin = "0"
+					HasCustomOddBgColour = "0"
+					HasCustomEvenBgColour = "0"
+					HasCustomTextColour = "0"
+					HeadingAlignment = "Centre"
+					CellAlignment = "Right"/>
+				<ColumnItem
+					OddBackgroundColour = "255,255,255,0,6"
+					EvenBackgroundColour = "255,255,255,0,6"
+					TextColour = "0,0,0,0,9"
+					ColumnID = "27"
+					Heading = "STATUS"
+					Width = "50"
+					HeaderMargin = "0"
+					CellMargin = "0"
+					HasCustomOddBgColour = "0"
+					HasCustomEvenBgColour = "0"
+					HasCustomTextColour = "0"
+					HeadingAlignment = "Centre"
+					CellAlignment = "Right"/>
+				<ColumnItem
+					OddBackgroundColour = "255,255,255,0,6"
+					EvenBackgroundColour = "255,255,255,0,6"
+					TextColour = "0,0,0,0,9"
+					ColumnID = "28"
+					Heading = "Created Date"
+					Width = "80"
+					HeaderMargin = "0"
+					CellMargin = "0"
+					HasCustomOddBgColour = "0"
+					HasCustomEvenBgColour = "0"
+					HasCustomTextColour = "0"
+					HeadingAlignment = "Centre"
+					CellAlignment = "Right"/>
+			</Columns>
+			<Data>
+				<Row
+					IsSelected = "0">
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						1
+					</Cell>
+					<Cell>
+						27/04/2017
+					</Cell>
+					<Cell>
+						JENIUS SECONDARY
+					</Cell>
+					<Cell>
+						5046156
+					</Cell>
+					<Cell>
+						2577
+					</Cell>
+					<Cell>
+						IRFAN ALVIANTO
+					</Cell>
+					<Cell>
+						3174062610940001
+					</Cell>
+					<Cell>
+						2865HB
+					</Cell>
+					<Cell>
+						IRFAN ALVIANTO
+					</Cell>
+					<Cell>
+						90010776454
+					</Cell>
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						081807365267
+					</Cell>
+					<Cell>
+						NEW ONBOARD
+					</Cell>
+					<Cell>
+						Jl. Taman gandaria Kav. 3
+					</Cell>
+					<Cell>
+						RT/RW 08/09;CILANDAK
+					</Cell>
+					<Cell>
+						GANDARIA SELATAN
+					</Cell>
+					<Cell>
+						DKI JAKARTA
+					</Cell>
+					<Cell>
+						KYC
+					</Cell>
+					<Cell>
+						NEW
+					</Cell>
+					<Cell>
+						01/10/2017
+					</Cell>
+				</Row>
+				<Row
+					IsSelected = "0">
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						2
+					</Cell>
+					<Cell>
+						27/04/2017
+					</Cell>
+					<Cell>
+						JENIUS SECONDARY
+					</Cell>
+					<Cell>
+						5046154
+					</Cell>
+					<Cell>
+						2585
+					</Cell>
+					<Cell>
+						MOHAMMAD MACHRUS
+					</Cell>
+					<Cell>
+						3174062510940001
+					</Cell>
+					<Cell>
+						30688A
+					</Cell>
+					<Cell>
+						MOHAMMAD MACHRUS
+					</Cell>
+					<Cell>
+						90010778565
+					</Cell>
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						081807365897
+					</Cell>
+					<Cell>
+						NEW ONBOARD
+					</Cell>
+					<Cell>
+						Jl. Taman gandaria Kav. 6
+					</Cell>
+					<Cell>
+						RT/RW 07/19;CILANDAK
+					</Cell>
+					<Cell>
+						GANDARIA SELATAN; JAKARTA
+					</Cell>
+					<Cell>
+						JAKARTA PUSAT
+					</Cell>
+					<Cell>
+						KYC
+					</Cell>
+					<Cell>
+						NEW
+					</Cell>
+					<Cell>
+						01/10/2017
+					</Cell>
+				</Row>
+				<Row
+					IsSelected = "0">
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						3
+					</Cell>
+					<Cell>
+						27/04/2017
+					</Cell>
+					<Cell>
+						JENIUS SECONDARY
+					</Cell>
+					<Cell>
+						5046157
+					</Cell>
+					<Cell>
+						2576
+					</Cell>
+					<Cell>
+						HERIKA KOMARIYAH
+					</Cell>
+					<Cell>
+						3174062510940023
+					</Cell>
+					<Cell>
+						2814GM
+					</Cell>
+					<Cell>
+						HERIKA KOMARIYAH
+					</Cell>
+					<Cell>
+						90010777898
+					</Cell>
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						081808675897
+					</Cell>
+					<Cell>
+						NEW ONBOARD
+					</Cell>
+					<Cell>
+						Jl. M KAHFI 2 GANG PUTRA
+					</Cell>
+					<Cell>
+						RT/RW 001 NO.67H
+					</Cell>
+					<Cell>
+						JAKARTA SELATAN
+					</Cell>
+					<Cell>
+						JAKARTA
+					</Cell>
+					<Cell>
+						KYC
+					</Cell>
+					<Cell>
+						NEW
+					</Cell>
+					<Cell>
+						01/10/2017
+					</Cell>
+				</Row>
+				<Row
+					IsSelected = "0">
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+				</Row>
+			</Data>
+		</Element>
+		<Element
+			CID = "2077446118"
+			Type = "HorizontalSeparatorLine"
+			X = "-783"
+			Y = "252"
+			Width = "917"
+			Height = "12"
+			Flags = "2"/>
+		<Element
+			CID = "1714488821"
+			Type = "StaticText"
+			X = "-766"
+			Y = "227"
+			Width = "127"
+			Height = "15"
+			Flags = "0"
+			FillColour = "236,233,216,0,16"
+			TextColour = "0,0,0,0,19"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			Text = "KRITERIA"
+			IsDisabled = "0"
+			Fill = "None"
+			HorzAlign = "Left"
+			VertAlign = "Top"/>
+		<Element
+			CID = "1096491497"
+			Type = "ListBox"
+			X = "-1151"
+			Y = "27"
+			Width = "175"
+			Height = "82"
+			Flags = "2"
+			VariableName = "bank"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			NextItemID = "10"
+			IsDisabled = "0"
+			HasHorzScrollBar = "0"
+			HasVertScrollBar = "0"
+			Mirror = "0"
+			WordWrap = "0"
+			IsFlat = "1"
+			AutoHeight = "1"
+			HorzOffset = "0"
+			HorzMargin = "0"
+			FirstVisibleItem = "1"
+			ItemHeight = "16"
+			MaxVisibleItems = "20"
+			HorzAlign = "Left"
+			VertAlign = "Centre">
+			<ListBoxItem
+				ItemID = "5"
+				Value = "REF NO"
+				IsSelected = "0"/>
+			<ListBoxItem
+				ItemID = "6"
+				Value = "CIF"
+				IsSelected = "0"/>
+			<ListBoxItem
+				ItemID = "7"
+				Value = "NAMEON CARD"
+				IsSelected = "0"/>
+			<ListBoxItem
+				ItemID = "8"
+				Value = "NO ACCOUNT"
+				IsSelected = "0"/>
+			<ListBoxItem
+				ItemID = "9"
+				Value = "MOBILEPHONE"
+				IsSelected = "0"/>
+		</Element>
+		<Element
+			CID = "1708351615"
+			Type = "TextButton"
+			X = "-782"
+			Y = "591"
+			Width = "75"
+			Height = "23"
+			Flags = "0"
+			TextColour = "0,0,0,0,19"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			Text = "Download"
+			Depth = "2"
+			IsDefault = "1"
+			IsDisabled = "0"
+			MarginLeft = "0"
+			MarginRight = "0"
+			MarginTop = "0"
+			MarginBottom = "0"
+			AutoNavType = "Accept"/>
+		<Element
+			CID = "1784626866"
+			Type = "StaticText"
+			X = "-784"
+			Y = "560"
+			Width = "101"
+			Height = "21"
+			Flags = "4096"
+			FillColour = "236,233,216,0,16"
+			TextColour = "0,0,0,0,19"
+			Typeface = ""
+			FontAttributes = "1"
+			TextSize = "Normal"
+			Text = "Total Data : 3"
+			IsDisabled = "0"
+			Fill = "None"
+			HorzAlign = "Left"
+			VertAlign = "Centre"/>
+		<Element
+			CID = "1784623394"
+			Type = "HorizontalSeparatorLine"
+			X = "-784"
+			Y = "581"
+			Width = "887"
+			Height = "12"
+			Flags = "2"/>
+		<Element
+			CID = "1784634635"
+			Type = "StaticText"
+			X = "-109"
+			Y = "560"
+			Width = "35"
+			Height = "21"
+			Flags = "4096"
+			FillColour = "236,233,216,0,16"
+			TextColour = "0,0,0,0,19"
+			Typeface = ""
+			FontAttributes = "1"
+			TextSize = "Normal"
+			Text = "Rows"
+			IsDisabled = "0"
+			Fill = "None"
+			HorzAlign = "Left"
+			VertAlign = "Centre"/>
+		<Element
+			CID = "1784616340"
+			Type = "Bitmap"
+			X = "79"
+			Y = "565"
+			Width = "12"
+			Height = "12"
+			Flags = "8192"
+			RootPath = "$Container"
+			Filename = "..\Images\icon_arrowleft.gif"
+			Placement = "Stretch"
+			HorzAlign = "Left"
+			VertAlign = "Top"
+			ClipLeft = "0"
+			ClipRight = "0"
+			ClipTop = "0"
+			ClipBottom = "0"/>
+		<Element
+			CID = "1784620378"
+			Type = "Bitmap"
+			X = "64"
+			Y = "565"
+			Width = "12"
+			Height = "12"
+			Flags = "0"
+			RootPath = "$Container"
+			Filename = "..\Images\icon_arrowright.gif"
+			Placement = "Stretch"
+			HorzAlign = "Left"
+			VertAlign = "Top"
+			ClipLeft = "0"
+			ClipRight = "0"
+			ClipTop = "0"
+			ClipBottom = "0"/>
+		<Element
+			CID = "1785675612"
+			Type = "StaticText"
+			X = "-22"
+			Y = "560"
+			Width = "35"
+			Height = "21"
+			Flags = "0"
+			FillColour = "236,233,216,0,16"
+			TextColour = "0,0,0,0,19"
+			Typeface = ""
+			FontAttributes = "1"
+			TextSize = "Normal"
+			Text = "Page"
+			IsDisabled = "0"
+			Fill = "None"
+			HorzAlign = "Left"
+			VertAlign = "Centre"/>
+		<Element
+			CID = "1785689353"
+			Type = "StaticText"
+			X = "42"
+			Y = "560"
+			Width = "17"
+			Height = "21"
+			Flags = "0"
+			FillColour = "236,233,216,0,16"
+			TextColour = "0,0,0,0,19"
+			Typeface = ""
+			FontAttributes = "1"
+			TextSize = "Normal"
+			Text = "/1"
+			IsDisabled = "0"
+			Fill = "None"
+			HorzAlign = "Left"
+			VertAlign = "Centre"/>
+		<Element
+			CID = "1785686486"
+			Type = "EditBox"
+			X = "11"
+			Y = "560"
+			Width = "23"
+			Height = "21"
+			Flags = "2"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			Text = "1"
+			IsDisabled = "0"
+			IsReadOnly = "0"
+			HorzAlign = "Centre"
+			EditType = "Text"
+			OverrideTextColour = "0"
+			OverrideDisabledTextColour = "0"
+			OverrideFillColour = "0"
+			OverrideDisabledFillColour = "0"
+			OverrideBorderColour = "1"
+			MarginLeft = "0"
+			MarginRight = "0"
+			MarginTop = "0"
+			MarginBottom = "0"
+			TextColour = "0,0,0,0,9"
+			DisabledTextColour = "161,161,146,0,18"
+			FillColour = "255,255,153,0,0"
+			DisabledFillColour = "236,233,216,0,16"
+			BorderColour = "51,51,51,0,0"/>
+		<Element
+			CID = "1785669406"
+			Type = "ComboBox"
+			X = "-74"
+			Y = "561"
+			Width = "43"
+			Height = "21"
+			Flags = "4610"
+			VariableName = "Rows"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			Text = "10"
+			IsDisabled = "0"
+			IsEditable = "0"
+			IsFlat = "0"
+			Mirror = "0"
+			CustomStyle = "0"
+			HorzAlign = "Left"
+			OverrideTextColour = "0"
+			OverrideDisabledTextColour = "0"
+			OverrideFillColour = "0"
+			OverrideDisabledFillColour = "0"
+			OverrideBorderColour = "1"
+			TextColour = "0,0,0,0,9"
+			DisabledTextColour = "161,161,146,0,18"
+			FillColour = "240,240,255,0,0"
+			DisabledFillColour = "236,233,216,0,16"
+			BorderColour = "51,51,51,0,0"/>
+		<Element
+			CID = "1065943324"
+			Type = "Calendar"
+			X = "-824"
+			Y = "-133"
+			Width = "205"
+			Height = "158"
+			Flags = "3"
+			MainFillColour = "255,255,255,0,6"
+			MainLineColour = "0,0,0,0,9"
+			MainTextColour = "0,0,0,0,9"
+			TitleFillColour = "139,161,105,0,3"
+			TitleLineColour = "172,168,153,0,11"
+			TitleTextColour = "255,255,255,0,10"
+			DayNamesFillColour = "255,255,255,0,6"
+			DayNamesLineColour = "255,255,255,0,6"
+			DayNamesTextColour = "139,161,105,0,3"
+			WeekendNamesFillColour = "255,255,255,0,6"
+			WeekendNamesLineColour = "255,255,255,0,6"
+			WeekendNamesTextColour = "139,161,105,0,3"
+			WeekFillColour = "255,255,255,0,6"
+			WeekLineColour = "255,255,255,0,6"
+			WeekTextColour = "139,161,105,0,3"
+			DayFillColour = "255,255,255,0,6"
+			DayLineColour = "172,168,153,0,11"
+			DayTextColour = "0,0,0,0,9"
+			WeekendFillColour = "255,255,255,0,6"
+			WeekendLineColour = "172,168,153,0,11"
+			WeekendTextColour = "0,0,0,0,9"
+			TrailingFillColour = "255,255,255,0,6"
+			TrailingLineColour = "164,185,127,0,12"
+			TrailingTextColour = "161,161,146,0,18"
+			SelFillColour = "147,160,112,0,14"
+			SelLineColour = "147,160,112,0,14"
+			SelTextColour = "255,255,255,0,15"
+			TrailingSelFillColour = "147,160,112,0,14"
+			TrailingSelLineColour = "147,160,112,0,14"
+			TrailingSelTextColour = "255,255,255,0,15"
+			TodayFillColour = "255,255,255,0,6"
+			TodayLineColour = "255,0,0,0,0"
+			TodayTextColour = "0,0,0,0,9"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			MarginLeft = "0"
+			MarginRight = "0"
+			MarginTop = "0"
+			MarginBottom = "0"
+			BorderSize = "1"
+			TitleBorderSize = "0"
+			TitleHeight = "30"
+			CellBorderSize = "0"
+			CellWidth = "25"
+			CellHeight = "15"
+			HorzCellSpacing = "0"
+			VertCellSpacing = "0"
+			HorzMonthSpacing = "6"
+			VertMonthSpacing = "6"
+			Rows = "1"
+			Cols = "1"
+			DayOfWeekChars = "3"
+			HighlightToday = "1"
+			ShowToday = "1"
+			ShowWeekNumbers = "1"
+			ShowWeeksLine = "1"
+			ShowDaysLine = "1"
+			ShowTrailingDays = "1"
+			ShowBetweenDays = "0"
+			SetInitialMonth = "0"
+			SetSelectedDate = "0"
+			WeekStartsOn = "0"
+			WeekendStartsOn = "5"
+			WeekendLength = "2"
+			FirstYear = "2017"
+			FirstMonth = "11"
+			SelectedYear = "2017"
+			SelectedMonth = "11"
+			SelectedDay = "17"
+			SelectedCount = "1"
+			IsDisabled = "0"
+			HorzAlign = "Centre"
+			VertAlign = "Centre"/>
+		<Element
+			CID = "1065952132"
+			Type = "Bitmap"
+			X = "-525"
+			Y = "-66"
+			Width = "16"
+			Height = "15"
+			Flags = "256"
+			FileID = "0EC5B7A3-FAFD-492F-BF67358C4329DD88"
+			RootPath = "$Container"
+			Filename = "..\Images\insertdate.png"
+			Placement = "Stretch"
+			HorzAlign = "Left"
+			VertAlign = "Top"
+			ClipLeft = "0"
+			ClipRight = "0"
+			ClipTop = "0"
+			ClipBottom = "0"/>
+		<Element
+			CID = "641672995"
+			Type = "ComponentThumbnail"
+			X = "-1143"
+			Y = "120"
+			Width = "120"
+			Height = "120"
+			Flags = "3"
+			BackgroundColour = "255,255,255,0,6"
+			FileID = "1005676E-4E6A-49A4-B00D7A2D696BBB92"
+			RootPath = "$Container"
+			Filename = "DetailCardInventory.gui"
+			Background = "Transparent"
+			HorzAlign = "Left"
+			VertAlign = "Top"
+			MaintainSize = "1"/>
+		<Element
+			CID = "651769172"
+			Type = "StaticText"
+			X = "-754"
+			Y = "257"
+			Width = "63"
+			Height = "21"
+			Flags = "256"
+			FillColour = "236,233,216,0,16"
+			TextColour = "0,0,0,0,19"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			Text = "View Detail"
+			IsDisabled = "0"
+			Fill = "None"
+			HorzAlign = "Left"
+			VertAlign = "Centre"/>
+		<Element
+			CID = "651757523"
+			Type = "Bitmap"
+			X = "-782"
+			Y = "261"
+			Width = "22"
+			Height = "15"
+			Flags = "0"
+			RootPath = "$Container"
+			Filename = "..\Images\icon_edit.gif"
+			Placement = "Stretch"
+			HorzAlign = "Left"
+			VertAlign = "Top"
+			ClipLeft = "0"
+			ClipRight = "0"
+			ClipTop = "0"
+			ClipBottom = "0"/>
+		<Element
+			CID = "651775249"
+			Type = "Bitmap"
+			X = "-778"
+			Y = "309"
+			Width = "22"
+			Height = "15"
+			Flags = "0"
+			RootPath = "$Container"
+			Filename = "..\Images\icon_edit.gif"
+			Placement = "Stretch"
+			HorzAlign = "Left"
+			VertAlign = "Top"
+			ClipLeft = "0"
+			ClipRight = "0"
+			ClipTop = "0"
+			ClipBottom = "0"/>
+		<Element
+			CID = "775553220"
+			Type = "Bitmap"
+			X = "-778"
+			Y = "325"
+			Width = "22"
+			Height = "15"
+			Flags = "0"
+			RootPath = "$Container"
+			Filename = "..\Images\icon_edit.gif"
+			Placement = "Stretch"
+			HorzAlign = "Left"
+			VertAlign = "Top"
+			ClipLeft = "0"
+			ClipRight = "0"
+			ClipTop = "0"
+			ClipBottom = "0"/>
+		<Element
+			CID = "775578309"
+			Type = "Bitmap"
+			X = "-778"
+			Y = "345"
+			Width = "22"
+			Height = "15"
+			Flags = "0"
+			RootPath = "$Container"
+			Filename = "..\Images\icon_edit.gif"
+			Placement = "Stretch"
+			HorzAlign = "Left"
+			VertAlign = "Top"
+			ClipLeft = "0"
+			ClipRight = "0"
+			ClipTop = "0"
+			ClipBottom = "0"/>
+		<Element
+			CID = "1830908672"
+			Type = "Rectangle"
+			X = "-1311"
+			Y = "559"
+			Width = "330"
+			Height = "127"
+			Flags = "0"
+			HighlightColour = "250,250,250,0,21"
+			ShadowColour = "172,168,153,0,17"
+			FillColour = "236,233,216,0,16"
+			GradientColour = "172,168,153,0,17"
+			BorderColour = "164,185,127,0,12"
+			TextColour = "0,0,0,0,19"
+			Fill = "HorizontalGradient"
+			Border = "Ridge"
+			TextPlacement = "Top"
+			HorzAlign = "Left"
+			BorderDepth = "1"
+			BorderWidth = "0"
+			Text = ""
+			TextOutsideExtent = "1"
+			IsDisabled = "0"/>
+		<Element
+			CID = "1830905726"
+			Type = "StaticText"
+			X = "-1309"
+			Y = "561"
+			Width = "326"
+			Height = "25"
+			Flags = "0"
+			FillColour = "34,32,31,0,0"
+			TextColour = "255,255,255,0,0"
+			Typeface = "Arial"
+			FontAttributes = "1"
+			TextSize = "100"
+			Text = "Download"
+			IsDisabled = "0"
+			Fill = "Solid"
+			HorzAlign = "Left"
+			VertAlign = "Centre"/>
+		<Element
+			CID = "1830906457"
+			Type = "CheckBox"
+			X = "-1293"
+			Y = "595"
+			Width = "80"
+			Height = "21"
+			Flags = "0"
+			TextColour = "0,0,0,0,19"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			Text = ".XLS"
+			IsDisabled = "0"
+			IsTextLeft = "0"
+			Is3State = "0"
+			CheckSize = "13"
+			State = "Unchecked"/>
+		<Element
+			CID = "1831869943"
+			Type = "CheckBox"
+			X = "-1192"
+			Y = "597"
+			Width = "80"
+			Height = "21"
+			Flags = "0"
+			TextColour = "0,0,0,0,19"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			Text = ".TXT"
+			IsDisabled = "0"
+			IsTextLeft = "0"
+			Is3State = "0"
+			CheckSize = "13"
+			State = "Unchecked"/>
+		<Element
+			CID = "1831892735"
+			Type = "TextButton"
+			X = "-1293"
+			Y = "635"
+			Width = "75"
+			Height = "23"
+			Flags = "0"
+			TextColour = "0,0,0,0,19"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			Text = "OK"
+			Depth = "2"
+			IsDefault = "1"
+			IsDisabled = "0"
+			MarginLeft = "0"
+			MarginRight = "0"
+			MarginTop = "0"
+			MarginBottom = "0"
+			AutoNavType = "Accept"/>
+		<Element
+			CID = "1831884528"
+			Type = "TextButton"
+			X = "-1194"
+			Y = "634"
+			Width = "75"
+			Height = "23"
+			Flags = "0"
+			TextColour = "0,0,0,0,19"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			Text = "Close"
+			Depth = "2"
+			IsDefault = "0"
+			IsDisabled = "0"
+			MarginLeft = "0"
+			MarginRight = "0"
+			MarginTop = "0"
+			MarginBottom = "0"
+			AutoNavType = "Close"/>
+		<Element
+			CID = "1705195293"
+			Type = "TextButton"
+			X = "-673"
+			Y = "593"
+			Width = "75"
+			Height = "23"
+			Flags = "0"
+			TextColour = "0,0,0,0,19"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			Text = "Upload"
+			Depth = "2"
+			IsDefault = "1"
+			IsDisabled = "0"
+			MarginLeft = "0"
+			MarginRight = "0"
+			MarginTop = "0"
+			MarginBottom = "0"
+			AutoNavType = "Accept"/>
+		<Element
+			CID = "1705189456"
+			Type = "ComponentThumbnail"
+			X = "-631"
+			Y = "707"
+			Width = "120"
+			Height = "120"
+			Flags = "3"
+			BackgroundColour = "255,255,255,0,6"
+			RootPath = "$Container"
+			Filename = "UploadMainForm.gui"
+			Background = "Transparent"
+			HorzAlign = "Left"
+			VertAlign = "Top"
+			MaintainSize = "1"/>
+		<Element
+			CID = "1587284091"
+			Type = "ComboBox"
+			X = "-673"
+			Y = "225"
+			Width = "154"
+			Height = "21"
+			Flags = "8194"
+			VariableName = "LogLogin"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			Text = ""
+			IsDisabled = "0"
+			IsEditable = "0"
+			IsFlat = "0"
+			Mirror = "0"
+			CustomStyle = "0"
+			HorzAlign = "Left"
+			OverrideTextColour = "0"
+			OverrideDisabledTextColour = "0"
+			OverrideFillColour = "0"
+			OverrideDisabledFillColour = "0"
+			OverrideBorderColour = "1"
+			TextColour = "0,0,0,0,9"
+			DisabledTextColour = "161,161,146,0,18"
+			FillColour = "240,240,255,0,0"
+			DisabledFillColour = "236,233,216,0,16"
+			BorderColour = "51,51,51,0,0"/>
+		<Element
+			CID = "1587295477"
+			Type = "EditBox"
+			X = "-514"
+			Y = "225"
+			Width = "222"
+			Height = "21"
+			Flags = "8194"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			Text = ""
+			IsDisabled = "0"
+			IsReadOnly = "0"
+			HorzAlign = "Left"
+			EditType = "Text"
+			OverrideTextColour = "0"
+			OverrideDisabledTextColour = "0"
+			OverrideFillColour = "0"
+			OverrideDisabledFillColour = "0"
+			OverrideBorderColour = "1"
+			MarginLeft = "0"
+			MarginRight = "0"
+			MarginTop = "0"
+			MarginBottom = "0"
+			TextColour = "0,0,0,0,9"
+			DisabledTextColour = "161,161,146,0,18"
+			FillColour = "255,255,153,0,0"
+			DisabledFillColour = "236,233,216,0,16"
+			BorderColour = "51,51,51,0,0"/>
+		<Element
+			CID = "1587314084"
+			Type = "TextButton"
+			X = "-286"
+			Y = "224"
+			Width = "51"
+			Height = "23"
+			Flags = "0"
+			TextColour = "0,0,0,0,19"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			Text = "Cari"
+			Depth = "2"
+			IsDefault = "0"
+			IsDisabled = "0"
+			MarginLeft = "0"
+			MarginRight = "0"
+			MarginTop = "0"
+			MarginBottom = "0"
+			AutoNavType = ""/>
+	</Elements>
+	<Connections
+		CID = "2">
+		<Connection
+			CID = "1065966536"
+			Layer = "DesignElements"
+			Trigger = "LeftClick"
+			Type = "Navigation"
+			SubType = "ModalSelector"
+			SourceSubItemID = ""
+			SourceRefID = "1065952132"
+			TargetRefID = "1065943324"
+			ConLineWidth = "2"
+			ConLineColour = "0,0,0,0,0"/>
+		<Connection
+			CID = "651787670"
+			Layer = "DesignElements"
+			Trigger = "LeftClick"
+			Type = "Navigation"
+			SubType = "Modal"
+			SourceSubItemID = ""
+			SourceRefID = "651775249"
+			TargetRefID = "641672995"
+			ConLineWidth = "2"
+			ConLineColour = "0,0,0,0,0"/>
+		<Connection
+			CID = "1831887342"
+			Layer = "DesignElements"
+			Trigger = "LeftClick"
+			Type = "Navigation"
+			SubType = "Modal"
+			SourceSubItemID = ""
+			SourceRefID = "1708351615"
+			TargetRefID = "1830908672"
+			ConLineWidth = "2"
+			ConLineColour = "0,0,0,0,0"/>
+		<Connection
+			CID = "1705202481"
+			Layer = "DesignElements"
+			Trigger = "LeftClick"
+			Type = "Navigation"
+			SubType = "ModelessSwitchTop"
+			SourceSubItemID = ""
+			SourceRefID = "1705195293"
+			TargetRefID = "1705189456"
+			ConLineWidth = "2"
+			ConLineColour = "0,0,0,0,0"/>
+		<Connection
+			CID = "1587298484"
+			Layer = "DesignElements"
+			Trigger = "LeftClick"
+			Type = "Navigation"
+			SubType = "ModalSelector"
+			SourceSubItemID = ""
+			SourceRefID = "1587284091"
+			TargetRefID = "1096491497"
+			ConLineWidth = "2"
+			ConLineColour = "0,0,0,0,0"/>
+	</Connections>
+	<Groups
+		CID = "3"/>
+	<SelectionGroups
+		CID = "4"/>
+	<Notes
+		CID = "5">
+		<Note
+			CID = "82783422"
+			Name = "Description"
+			NextCID = "2">
+			<Text
+				CID = "1">
+				
+			</Text>
+		</Note>
+	</Notes>
+</Screen>

@@ -1,0 +1,1633 @@
+<Screen
+	CID = "1423133890"
+	AppID = "2"
+	AppVer = "4.2.115.0"
+	DocID = ""
+	HasCanvas = "0"
+	Width = "640"
+	Height = "480"
+	NextCID = "6"
+	RepresentativeRefID = "0"
+	UseDefRepresentative = "1">
+	<Elements
+		CID = "1">
+		<Element
+			CID = "261254099"
+			Type = "WebPage"
+			X = "-141"
+			Y = "137"
+			Width = "750"
+			Height = "635"
+			Flags = "0"
+			BackgroundColour = "255,255,255,0,0"
+			BorderColour = "160,160,160,0,0"
+			MarginLeft = "0"
+			MarginRight = "0"
+			MarginTop = "0"
+			MarginBottom = "0"
+			BorderWidth = "0"
+			PageHeight = "0"/>
+		<Element
+			CID = "261237820"
+			Type = "Component"
+			X = "-141"
+			Y = "137"
+			Width = "750"
+			Height = "80"
+			Flags = "3"
+			BackgroundColour = "255,255,255,0,6"
+			FileID = "157FDBED-41B5-44B2-97851466BFD8E4E7"
+			RootPath = "$Container"
+			Filename = "..\Utama\HeaderForm.gui"
+			Background = "Transparent"
+			HorzAlign = "Left"
+			VertAlign = "Top"
+			MaintainSize = "0"/>
+		<Element
+			CID = "261258133"
+			Type = "Component"
+			X = "-138"
+			Y = "217"
+			Width = "183"
+			Height = "550"
+			Flags = "3"
+			BackgroundColour = "255,255,255,0,6"
+			FileID = "537618F7-0407-467B-9CBBCF6F6282D383"
+			RootPath = "$Container"
+			Filename = "..\Utama\LeftMenuForm.gui"
+			Background = "Transparent"
+			HorzAlign = "Left"
+			VertAlign = "Top"
+			MaintainSize = "0"/>
+		<Element
+			CID = "261227649"
+			Type = "Component"
+			X = "-141"
+			Y = "745"
+			Width = "750"
+			Height = "27"
+			Flags = "3"
+			BackgroundColour = "255,255,255,0,6"
+			FileID = "D80EA396-180F-463D-A65B3E7DF267450B"
+			RootPath = "$Container"
+			Filename = "..\Utama\FooterForm.gui"
+			Background = "Transparent"
+			HorzAlign = "Left"
+			VertAlign = "Top"
+			MaintainSize = "0"/>
+		<Element
+			CID = "261245635"
+			Type = "Rectangle"
+			X = "39"
+			Y = "217"
+			Width = "1"
+			Height = "528"
+			Flags = "0"
+			HighlightColour = "250,250,250,0,21"
+			ShadowColour = "172,168,153,0,17"
+			FillColour = "236,233,216,0,16"
+			GradientColour = "172,168,153,0,17"
+			BorderColour = "28,81,128,0,7"
+			TextColour = "0,0,0,0,19"
+			Fill = "Solid"
+			Border = "None"
+			TextPlacement = "Top"
+			HorzAlign = "Left"
+			BorderDepth = "2"
+			BorderWidth = "2"
+			Text = ""
+			TextOutsideExtent = "1"
+			IsDisabled = "0"/>
+		<Element
+			CID = "261243677"
+			Type = "DesignGrid"
+			X = "-28"
+			Y = "217"
+			Width = "637"
+			Height = "528"
+			Flags = "0"
+			HorzLineColour = "28,81,128,0,7"
+			VertLineColour = "28,81,128,0,7"
+			ShadowColour = "28,81,128,0,7"
+			HighlightColour = "28,81,128,0,7"
+			FillColour = "255,255,255,0,6"
+			UnderlayColour = "192,192,255,0,0"
+			OuterMarginLeft = "30"
+			OuterMarginRight = "30"
+			OuterMarginTop = "12"
+			OuterMarginBottom = "15"
+			InnerMarginLeft = "0"
+			InnerMarginRight = "0"
+			InnerMarginTop = "30"
+			InnerMarginBottom = "0"
+			ColumnType = "Count"
+			Columns = "2"
+			ColumnEvery = "40"
+			ColumnSpacing = "20"
+			RowType = "Count"
+			Rows = "1"
+			RowEvery = "30"
+			RowSpacing = "5"
+			ShowHorzLines = "0"
+			ShowVertLines = "0"
+			ShowCellBorders = "0"
+			FillCells = "0"
+			ManualUnderlay = "0"/>
+		<Element
+			CID = "261234736"
+			Type = "HorizontalSeparatorLine"
+			X = "34"
+			Y = "928"
+			Width = "567"
+			Height = "12"
+			Flags = "2"/>
+		<Element
+			CID = "261228538"
+			Type = "HorizontalTabBar"
+			X = "2"
+			Y = "229"
+			Width = "607"
+			Height = "516"
+			Flags = "0"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			NextItemID = "18"
+			LeftMargin = "0"
+			RightMargin = "0"
+			SelectedTab = "0"
+			IsProportional = "1"
+			IsFullWidth = "1"
+			IsReversed = "1"
+			EnableSimSelect = "1"
+			Mirror = "0"
+			TabMarginLeft = "0"
+			TabMarginRight = "0"
+			TabMarginTop = "0"
+			TabMarginBottom = "0"/>
+		<Element
+			CID = "261250006"
+			Type = "StaticText"
+			X = "5"
+			Y = "243"
+			Width = "100"
+			Height = "21"
+			Flags = "4096"
+			FillColour = "236,233,216,0,16"
+			TextColour = "0,0,0,0,19"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "70"
+			Text = "Search By :"
+			IsDisabled = "0"
+			Fill = "None"
+			HorzAlign = "Right"
+			VertAlign = "Centre"/>
+		<Element
+			CID = "261228109"
+			Type = "ComboBox"
+			X = "118"
+			Y = "244"
+			Width = "154"
+			Height = "21"
+			Flags = "4098"
+			VariableName = "LogLogin"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "70"
+			Text = ""
+			IsDisabled = "0"
+			IsEditable = "0"
+			IsFlat = "0"
+			Mirror = "0"
+			CustomStyle = "0"
+			HorzAlign = "Left"
+			OverrideTextColour = "0"
+			OverrideDisabledTextColour = "0"
+			OverrideFillColour = "0"
+			OverrideDisabledFillColour = "0"
+			OverrideBorderColour = "1"
+			TextColour = "0,0,0,0,9"
+			DisabledTextColour = "161,161,146,0,18"
+			FillColour = "240,240,255,0,0"
+			DisabledFillColour = "236,233,216,0,16"
+			BorderColour = "51,51,51,0,0"/>
+		<Element
+			CID = "261252789"
+			Type = "EditBox"
+			X = "277"
+			Y = "244"
+			Width = "222"
+			Height = "21"
+			Flags = "4098"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "70"
+			Text = ""
+			IsDisabled = "0"
+			IsReadOnly = "0"
+			HorzAlign = "Left"
+			EditType = "Text"
+			OverrideTextColour = "0"
+			OverrideDisabledTextColour = "0"
+			OverrideFillColour = "0"
+			OverrideDisabledFillColour = "0"
+			OverrideBorderColour = "1"
+			MarginLeft = "0"
+			MarginRight = "0"
+			MarginTop = "0"
+			MarginBottom = "0"
+			TextColour = "0,0,0,0,9"
+			DisabledTextColour = "161,161,146,0,18"
+			FillColour = "255,255,153,0,0"
+			DisabledFillColour = "236,233,216,0,16"
+			BorderColour = "51,51,51,0,0"/>
+		<Element
+			CID = "261255239"
+			Type = "TextButton"
+			X = "505"
+			Y = "243"
+			Width = "29"
+			Height = "23"
+			Flags = "0"
+			TextColour = "0,0,0,0,19"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			Text = "Go"
+			Depth = "2"
+			IsDefault = "0"
+			IsDisabled = "0"
+			MarginLeft = "0"
+			MarginRight = "0"
+			MarginTop = "0"
+			MarginBottom = "0"
+			AutoNavType = ""/>
+		<Element
+			CID = "261239970"
+			Type = "ListBox"
+			X = "49"
+			Y = "43"
+			Width = "152"
+			Height = "70"
+			Flags = "0"
+			VariableName = "LogLogin"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			NextItemID = "18"
+			IsDisabled = "0"
+			HasHorzScrollBar = "0"
+			HasVertScrollBar = "1"
+			Mirror = "0"
+			WordWrap = "0"
+			IsFlat = "0"
+			AutoHeight = "0"
+			HorzOffset = "0"
+			HorzMargin = "0"
+			FirstVisibleItem = "1"
+			ItemHeight = "16"
+			MaxVisibleItems = "20"
+			HorzAlign = "Left"
+			VertAlign = "Centre">
+			<ListBoxItem
+				ItemID = "10"
+				Value = "Ref No"
+				IsSelected = "0"/>
+			<ListBoxItem
+				ItemID = "11"
+				Value = "AWB"
+				IsSelected = "0"/>
+			<ListBoxItem
+				ItemID = "17"
+				Value = "VENDOR"
+				IsSelected = "0"/>
+		</Element>
+		<Element
+			CID = "261251081"
+			Type = "StaticText"
+			X = "32"
+			Y = "266"
+			Width = "63"
+			Height = "21"
+			Flags = "0"
+			FillColour = "236,233,216,0,16"
+			TextColour = "0,0,0,0,19"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "VerySmall"
+			Text = "View Detail"
+			IsDisabled = "0"
+			Fill = "None"
+			HorzAlign = "Left"
+			VertAlign = "Centre"/>
+		<Element
+			CID = "261251423"
+			Type = "Bitmap"
+			X = "15"
+			Y = "272"
+			Width = "12"
+			Height = "9"
+			Flags = "0"
+			RootPath = "$Container"
+			Filename = "..\..\Images\icon_edit.gif"
+			Placement = "Stretch"
+			HorzAlign = "Left"
+			VertAlign = "Top"
+			ClipLeft = "0"
+			ClipRight = "0"
+			ClipTop = "0"
+			ClipBottom = "0"/>
+		<Element
+			CID = "261245928"
+			Type = "Table"
+			X = "6"
+			Y = "287"
+			Width = "601"
+			Height = "207"
+			Flags = "32768"
+			HeaderBackgroundColour = "241,109,46,0,0"
+			HeaderBorderColour = "172,168,153,0,17"
+			HeaderTextColour = "255,255,255,0,0"
+			BackgroundColour = "172,168,153,0,13"
+			BorderColour = "102,102,102,0,0"
+			GridLineColour = "241,239,226,0,23"
+			SortedBlendColour = "64,64,64,0,0"
+			DefOddBackgroundColour = "254,197,177,0,0"
+			DefEvenBackgroundColour = "255,255,255,0,0"
+			DefTextColour = "0,0,0,0,9"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "70"
+			NextColumnID = "19"
+			IsFlat = "0"
+			IsHeaderBold = "1"
+			IsTransparent = "0"
+			HasBorder = "1"
+			HasHorzScrollBar = "1"
+			HasVertScrollBar = "1"
+			Mirror = "0"
+			HasHorzLines = "1"
+			HasVertLines = "1"
+			HasExtHorzLines = "0"
+			HasExtVertLines = "0"
+			ExtendColumnHeaders = "1"
+			ExtendColumns = "1"
+			ExtendRows = "1"
+			VariableHeightRows = "1"
+			FullRowSelection = "1"
+			HeaderWordWrap = "0"
+			WordWrap = "0"
+			HeaderSpace = "0"
+			HeaderHeight = "25"
+			RowHeight = "18"
+			FirstVisibleRow = "0"
+			FixedColumns = "0"
+			SortedColumn = "2"
+			SortedBlendFactor = "0.000000"
+			ColumnSort = "Ascending"
+			HeaderStyle = "Standard"
+			FixedCellStyle = "SemiFlat">
+			<Columns>
+				<ColumnItem
+					OddBackgroundColour = "255,255,255,0,6"
+					EvenBackgroundColour = "255,255,255,0,6"
+					TextColour = "0,0,0,0,9"
+					ColumnID = "12"
+					Heading = ""
+					Width = "75"
+					HeaderMargin = "0"
+					CellMargin = "0"
+					HasCustomOddBgColour = "0"
+					HasCustomEvenBgColour = "0"
+					HasCustomTextColour = "0"
+					HeadingAlignment = "Centre"
+					CellAlignment = "Centre"/>
+				<ColumnItem
+					OddBackgroundColour = "255,255,255,0,6"
+					EvenBackgroundColour = "255,255,255,0,6"
+					TextColour = "0,0,0,0,9"
+					ColumnID = "1"
+					Heading = "No"
+					Width = "29"
+					HeaderMargin = "0"
+					CellMargin = "0"
+					HasCustomOddBgColour = "0"
+					HasCustomEvenBgColour = "0"
+					HasCustomTextColour = "0"
+					HeadingAlignment = "Centre"
+					CellAlignment = "Centre"/>
+				<ColumnItem
+					OddBackgroundColour = "255,255,255,0,6"
+					EvenBackgroundColour = "255,255,255,0,6"
+					TextColour = "0,0,0,0,9"
+					ColumnID = "16"
+					Heading = "Ref No"
+					Width = "75"
+					HeaderMargin = "0"
+					CellMargin = "0"
+					HasCustomOddBgColour = "0"
+					HasCustomEvenBgColour = "0"
+					HasCustomTextColour = "0"
+					HeadingAlignment = "Centre"
+					CellAlignment = "Centre"/>
+				<ColumnItem
+					OddBackgroundColour = "255,255,255,0,6"
+					EvenBackgroundColour = "255,255,255,0,6"
+					TextColour = "0,0,0,0,9"
+					ColumnID = "2"
+					Heading = "AWB"
+					Width = "228"
+					HeaderMargin = "0"
+					CellMargin = "0"
+					HasCustomOddBgColour = "0"
+					HasCustomEvenBgColour = "0"
+					HasCustomTextColour = "0"
+					HeadingAlignment = "Centre"
+					CellAlignment = "Centre"/>
+				<ColumnItem
+					OddBackgroundColour = "255,255,255,0,6"
+					EvenBackgroundColour = "255,255,255,0,6"
+					TextColour = "0,0,0,0,9"
+					ColumnID = "10"
+					Heading = "Pu Date"
+					Width = "60"
+					HeaderMargin = "0"
+					CellMargin = "0"
+					HasCustomOddBgColour = "0"
+					HasCustomEvenBgColour = "0"
+					HasCustomTextColour = "0"
+					HeadingAlignment = "Centre"
+					CellAlignment = "Left"/>
+				<ColumnItem
+					OddBackgroundColour = "255,255,255,0,6"
+					EvenBackgroundColour = "255,255,255,0,6"
+					TextColour = "0,0,0,0,9"
+					ColumnID = "11"
+					Heading = "Ship Date"
+					Width = "60"
+					HeaderMargin = "0"
+					CellMargin = "0"
+					HasCustomOddBgColour = "0"
+					HasCustomEvenBgColour = "0"
+					HasCustomTextColour = "0"
+					HeadingAlignment = "Centre"
+					CellAlignment = "Left"/>
+				<ColumnItem
+					OddBackgroundColour = "255,255,255,0,6"
+					EvenBackgroundColour = "255,255,255,0,6"
+					TextColour = "0,0,0,0,9"
+					ColumnID = "17"
+					Heading = "Status Date"
+					Width = "60"
+					HeaderMargin = "0"
+					CellMargin = "0"
+					HasCustomOddBgColour = "0"
+					HasCustomEvenBgColour = "0"
+					HasCustomTextColour = "0"
+					HeadingAlignment = "Centre"
+					CellAlignment = "Left"/>
+				<ColumnItem
+					OddBackgroundColour = "255,255,255,0,6"
+					EvenBackgroundColour = "255,255,255,0,6"
+					TextColour = "0,0,0,0,9"
+					ColumnID = "14"
+					Heading = "Status"
+					Width = "58"
+					HeaderMargin = "0"
+					CellMargin = "0"
+					HasCustomOddBgColour = "0"
+					HasCustomEvenBgColour = "0"
+					HasCustomTextColour = "0"
+					HeadingAlignment = "Centre"
+					CellAlignment = "Left"/>
+				<ColumnItem
+					OddBackgroundColour = "255,255,255,0,6"
+					EvenBackgroundColour = "255,255,255,0,6"
+					TextColour = "0,0,0,0,9"
+					ColumnID = "18"
+					Heading = "VENDOR"
+					Width = "80"
+					HeaderMargin = "0"
+					CellMargin = "0"
+					HasCustomOddBgColour = "0"
+					HasCustomEvenBgColour = "0"
+					HasCustomTextColour = "0"
+					HeadingAlignment = "Left"
+					CellAlignment = "Left"/>
+			</Columns>
+			<Data>
+				<Row
+					IsSelected = "0">
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						1
+					</Cell>
+					<Cell>
+						5406425
+					</Cell>
+					<Cell>
+						46153023619
+					</Cell>
+					<Cell>
+						4/3/2017
+					</Cell>
+					<Cell>
+						4/3/2017
+					</Cell>
+					<Cell>
+						4/6/2017  1:00:00 PM
+					</Cell>
+					<Cell>
+						NEW
+					</Cell>
+					<Cell>
+						NCS
+					</Cell>
+				</Row>
+				<Row
+					IsSelected = "0">
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						2
+					</Cell>
+					<Cell>
+						5406425
+					</Cell>
+					<Cell>
+						46153023619
+					</Cell>
+					<Cell>
+						4/3/2017
+					</Cell>
+					<Cell>
+						4/3/2017
+					</Cell>
+					<Cell>
+						4/6/2017  1:00:00 PM
+					</Cell>
+					<Cell>
+						IN PROGRESS
+					</Cell>
+					<Cell>
+						NCS
+					</Cell>
+				</Row>
+				<Row
+					IsSelected = "0">
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						3
+					</Cell>
+					<Cell>
+						5406425
+					</Cell>
+					<Cell>
+						46153023619
+					</Cell>
+					<Cell>
+						4/3/2017
+					</Cell>
+					<Cell>
+						4/3/2017
+					</Cell>
+					<Cell>
+						4/6/2017  1:00:00 PM
+					</Cell>
+					<Cell>
+						RETUR
+					</Cell>
+					<Cell>
+						NCS
+					</Cell>
+				</Row>
+				<Row
+					IsSelected = "0">
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						4
+					</Cell>
+					<Cell>
+						5406425
+					</Cell>
+					<Cell>
+						46153023568
+					</Cell>
+					<Cell>
+						7/3/2017
+					</Cell>
+					<Cell>
+						7/3/2017
+					</Cell>
+					<Cell>
+						9/3/2017  1:00:00 PM
+					</Cell>
+					<Cell>
+						IN PROGRESS
+					</Cell>
+					<Cell>
+						NCS
+					</Cell>
+				</Row>
+				<Row
+					IsSelected = "0">
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						5
+					</Cell>
+					<Cell>
+						5406425
+					</Cell>
+					<Cell>
+						46153023563
+					</Cell>
+					<Cell>
+						9/3/2017
+					</Cell>
+					<Cell>
+						9/3/2017
+					</Cell>
+					<Cell>
+						9/3/2017  1:00:00 PM
+					</Cell>
+					<Cell>
+						COMPLETED
+					</Cell>
+					<Cell>
+						NCS
+					</Cell>
+				</Row>
+			</Data>
+		</Element>
+		<Element
+			CID = "1469126888"
+			Type = "Bitmap"
+			X = "52"
+			Y = "319"
+			Width = "12"
+			Height = "9"
+			Flags = "32768"
+			RootPath = "$Container"
+			Filename = "..\..\Images\icon_edit.gif"
+			Placement = "Stretch"
+			HorzAlign = "Left"
+			VertAlign = "Top"
+			ClipLeft = "0"
+			ClipRight = "0"
+			ClipTop = "0"
+			ClipBottom = "0"/>
+		<Element
+			CID = "1469131004"
+			Type = "Bitmap"
+			X = "52"
+			Y = "334"
+			Width = "12"
+			Height = "9"
+			Flags = "32768"
+			RootPath = "$Container"
+			Filename = "..\..\Images\icon_edit.gif"
+			Placement = "Stretch"
+			HorzAlign = "Left"
+			VertAlign = "Top"
+			ClipLeft = "0"
+			ClipRight = "0"
+			ClipTop = "0"
+			ClipBottom = "0"/>
+		<Element
+			CID = "1469152861"
+			Type = "Bitmap"
+			X = "51"
+			Y = "351"
+			Width = "12"
+			Height = "9"
+			Flags = "16384"
+			RootPath = "$Container"
+			Filename = "..\..\Images\icon_edit.gif"
+			Placement = "Stretch"
+			HorzAlign = "Left"
+			VertAlign = "Top"
+			ClipLeft = "0"
+			ClipRight = "0"
+			ClipTop = "0"
+			ClipBottom = "0"/>
+		<Element
+			CID = "1469121041"
+			Type = "Bitmap"
+			X = "52"
+			Y = "371"
+			Width = "12"
+			Height = "9"
+			Flags = "16384"
+			RootPath = "$Container"
+			Filename = "..\..\Images\icon_edit.gif"
+			Placement = "Stretch"
+			HorzAlign = "Left"
+			VertAlign = "Top"
+			ClipLeft = "0"
+			ClipRight = "0"
+			ClipTop = "0"
+			ClipBottom = "0"/>
+		<Element
+			CID = "1469148510"
+			Type = "Bitmap"
+			X = "52"
+			Y = "391"
+			Width = "12"
+			Height = "9"
+			Flags = "34816"
+			RootPath = "$Container"
+			Filename = "..\..\Images\icon_edit.gif"
+			Placement = "Stretch"
+			HorzAlign = "Left"
+			VertAlign = "Top"
+			ClipLeft = "0"
+			ClipRight = "0"
+			ClipTop = "0"
+			ClipBottom = "0"/>
+		<Element
+			CID = "1469121133"
+			Type = "TabPanel"
+			X = "-980"
+			Y = "152"
+			Width = "646"
+			Height = "334"
+			Flags = "0"
+			TabOrientation = "Top"
+			MarginLeft = "10"
+			MarginRight = "10"
+			MarginTop = "10"
+			MarginBottom = "10"/>
+		<Element
+			CID = "1469140942"
+			Type = "Rectangle"
+			X = "-980"
+			Y = "152"
+			Width = "636"
+			Height = "325"
+			Flags = "0"
+			HighlightColour = "250,250,250,0,21"
+			ShadowColour = "172,168,153,0,17"
+			FillColour = "251,240,236,0,0"
+			GradientColour = "255,255,255,0,0"
+			BorderColour = "28,81,128,0,7"
+			TextColour = "0,0,0,0,19"
+			Fill = "VerticalGradient"
+			Border = "Ridge"
+			TextPlacement = "Top"
+			HorzAlign = "Left"
+			BorderDepth = "2"
+			BorderWidth = "2"
+			Text = ""
+			TextOutsideExtent = "1"
+			IsDisabled = "0"/>
+		<Element
+			CID = "1469140399"
+			Type = "StaticText"
+			X = "-963"
+			Y = "359"
+			Width = "90"
+			Height = "21"
+			Flags = "0"
+			FillColour = "236,233,216,0,16"
+			TextColour = "0,0,0,0,19"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			Text = "Status"
+			IsDisabled = "0"
+			Fill = "None"
+			HorzAlign = "Right"
+			VertAlign = "Centre"/>
+		<Element
+			CID = "1469136627"
+			Type = "StaticText"
+			X = "-963"
+			Y = "189"
+			Width = "87"
+			Height = "21"
+			Flags = "0"
+			FillColour = "236,233,216,0,16"
+			TextColour = "0,0,0,0,19"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			Text = "REF NO"
+			IsDisabled = "0"
+			Fill = "None"
+			HorzAlign = "Right"
+			VertAlign = "Centre"/>
+		<Element
+			CID = "1469125534"
+			Type = "EditBox"
+			X = "-846"
+			Y = "191"
+			Width = "150"
+			Height = "21"
+			Flags = "2"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			Text = "5046156"
+			IsDisabled = "0"
+			IsReadOnly = "1"
+			HorzAlign = "Left"
+			EditType = "Text"
+			OverrideTextColour = "0"
+			OverrideDisabledTextColour = "0"
+			OverrideFillColour = "0"
+			OverrideDisabledFillColour = "0"
+			OverrideBorderColour = "1"
+			MarginLeft = "0"
+			MarginRight = "0"
+			MarginTop = "0"
+			MarginBottom = "0"
+			TextColour = "0,0,0,0,9"
+			DisabledTextColour = "161,161,146,0,18"
+			FillColour = "255,255,153,0,0"
+			DisabledFillColour = "236,233,216,0,16"
+			BorderColour = "51,51,51,0,0"/>
+		<Element
+			CID = "1469128872"
+			Type = "EditBox"
+			X = "-845"
+			Y = "362"
+			Width = "139"
+			Height = "21"
+			Flags = "2"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			Text = "RETUR"
+			IsDisabled = "0"
+			IsReadOnly = "1"
+			HorzAlign = "Left"
+			EditType = "Text"
+			OverrideTextColour = "0"
+			OverrideDisabledTextColour = "0"
+			OverrideFillColour = "0"
+			OverrideDisabledFillColour = "0"
+			OverrideBorderColour = "1"
+			MarginLeft = "0"
+			MarginRight = "0"
+			MarginTop = "0"
+			MarginBottom = "0"
+			TextColour = "0,0,0,0,9"
+			DisabledTextColour = "161,161,146,0,18"
+			FillColour = "255,255,153,0,0"
+			DisabledFillColour = "236,233,216,0,16"
+			BorderColour = "51,51,51,0,0"/>
+		<Element
+			CID = "1469123348"
+			Type = "TextButton"
+			X = "-843"
+			Y = "423"
+			Width = "65"
+			Height = "23"
+			Flags = "0"
+			TextColour = "0,0,0,0,19"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			Text = "Close"
+			Depth = "2"
+			IsDefault = "0"
+			IsDisabled = "0"
+			MarginLeft = "0"
+			MarginRight = "0"
+			MarginTop = "0"
+			MarginBottom = "0"
+			AutoNavType = "Cancel"/>
+		<Element
+			CID = "1469136678"
+			Type = "StaticText"
+			X = "-963"
+			Y = "215"
+			Width = "90"
+			Height = "21"
+			Flags = "0"
+			FillColour = "236,233,216,0,16"
+			TextColour = "0,0,0,0,19"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			Text = "Pu Date"
+			IsDisabled = "0"
+			Fill = "None"
+			HorzAlign = "Right"
+			VertAlign = "Centre"/>
+		<Element
+			CID = "1469124898"
+			Type = "EditBox"
+			X = "-845"
+			Y = "217"
+			Width = "97"
+			Height = "21"
+			Flags = "2"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			Text = "28/04/2017"
+			IsDisabled = "0"
+			IsReadOnly = "1"
+			HorzAlign = "Left"
+			EditType = "Text"
+			OverrideTextColour = "0"
+			OverrideDisabledTextColour = "0"
+			OverrideFillColour = "0"
+			OverrideDisabledFillColour = "0"
+			OverrideBorderColour = "1"
+			MarginLeft = "0"
+			MarginRight = "0"
+			MarginTop = "0"
+			MarginBottom = "0"
+			TextColour = "0,0,0,0,9"
+			DisabledTextColour = "161,161,146,0,18"
+			FillColour = "255,255,153,0,0"
+			DisabledFillColour = "236,233,216,0,16"
+			BorderColour = "51,51,51,0,0"/>
+		<Element
+			CID = "1469134853"
+			Type = "StaticText"
+			X = "-677"
+			Y = "193"
+			Width = "90"
+			Height = "21"
+			Flags = "0"
+			FillColour = "236,233,216,0,16"
+			TextColour = "0,0,0,0,19"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			Text = "AWB"
+			IsDisabled = "0"
+			Fill = "None"
+			HorzAlign = "Right"
+			VertAlign = "Centre"/>
+		<Element
+			CID = "1469150857"
+			Type = "EditBox"
+			X = "-559"
+			Y = "191"
+			Width = "149"
+			Height = "21"
+			Flags = "2"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			Text = "27301339041"
+			IsDisabled = "0"
+			IsReadOnly = "1"
+			HorzAlign = "Left"
+			EditType = "Text"
+			OverrideTextColour = "0"
+			OverrideDisabledTextColour = "0"
+			OverrideFillColour = "0"
+			OverrideDisabledFillColour = "0"
+			OverrideBorderColour = "1"
+			MarginLeft = "0"
+			MarginRight = "0"
+			MarginTop = "0"
+			MarginBottom = "0"
+			TextColour = "0,0,0,0,9"
+			DisabledTextColour = "161,161,146,0,18"
+			FillColour = "255,255,153,0,0"
+			DisabledFillColour = "236,233,216,0,16"
+			BorderColour = "51,51,51,0,0"/>
+		<Element
+			CID = "1469138024"
+			Type = "EditBox"
+			X = "-976"
+			Y = "158"
+			Width = "632"
+			Height = "21"
+			Flags = "2"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			Text = "Detail Card Process"
+			IsDisabled = "0"
+			IsReadOnly = "0"
+			HorzAlign = "Left"
+			EditType = "Text"
+			OverrideTextColour = "1"
+			OverrideDisabledTextColour = "0"
+			OverrideFillColour = "1"
+			OverrideDisabledFillColour = "0"
+			OverrideBorderColour = "0"
+			MarginLeft = "0"
+			MarginRight = "0"
+			MarginTop = "0"
+			MarginBottom = "0"
+			TextColour = "255,255,255,0,15"
+			DisabledTextColour = "161,161,146,0,18"
+			FillColour = "0,0,0,0,0"
+			DisabledFillColour = "236,233,216,0,16"
+			BorderColour = "164,185,127,0,12"/>
+		<Element
+			CID = "1469126072"
+			Type = "StaticText"
+			X = "-678"
+			Y = "217"
+			Width = "90"
+			Height = "21"
+			Flags = "0"
+			FillColour = "236,233,216,0,16"
+			TextColour = "0,0,0,0,19"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			Text = "Ship Date"
+			IsDisabled = "0"
+			Fill = "None"
+			HorzAlign = "Right"
+			VertAlign = "Centre"/>
+		<Element
+			CID = "1469131637"
+			Type = "EditBox"
+			X = "-560"
+			Y = "219"
+			Width = "97"
+			Height = "21"
+			Flags = "2"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			Text = "28/04/2017"
+			IsDisabled = "0"
+			IsReadOnly = "1"
+			HorzAlign = "Left"
+			EditType = "Text"
+			OverrideTextColour = "0"
+			OverrideDisabledTextColour = "0"
+			OverrideFillColour = "0"
+			OverrideDisabledFillColour = "0"
+			OverrideBorderColour = "1"
+			MarginLeft = "0"
+			MarginRight = "0"
+			MarginTop = "0"
+			MarginBottom = "0"
+			TextColour = "0,0,0,0,9"
+			DisabledTextColour = "161,161,146,0,18"
+			FillColour = "255,255,153,0,0"
+			DisabledFillColour = "236,233,216,0,16"
+			BorderColour = "51,51,51,0,0"/>
+		<Element
+			CID = "1469144552"
+			Type = "StaticText"
+			X = "-964"
+			Y = "241"
+			Width = "90"
+			Height = "21"
+			Flags = "0"
+			FillColour = "236,233,216,0,16"
+			TextColour = "0,0,0,0,19"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			Text = "Status Date"
+			IsDisabled = "0"
+			Fill = "None"
+			HorzAlign = "Right"
+			VertAlign = "Centre"/>
+		<Element
+			CID = "1469151613"
+			Type = "EditBox"
+			X = "-846"
+			Y = "243"
+			Width = "97"
+			Height = "21"
+			Flags = "2"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			Text = "28/04/2017"
+			IsDisabled = "0"
+			IsReadOnly = "1"
+			HorzAlign = "Left"
+			EditType = "Text"
+			OverrideTextColour = "0"
+			OverrideDisabledTextColour = "0"
+			OverrideFillColour = "0"
+			OverrideDisabledFillColour = "0"
+			OverrideBorderColour = "1"
+			MarginLeft = "0"
+			MarginRight = "0"
+			MarginTop = "0"
+			MarginBottom = "0"
+			TextColour = "0,0,0,0,9"
+			DisabledTextColour = "161,161,146,0,18"
+			FillColour = "255,255,153,0,0"
+			DisabledFillColour = "236,233,216,0,16"
+			BorderColour = "51,51,51,0,0"/>
+		<Element
+			CID = "1469129758"
+			Type = "EditBoxMultiLine"
+			X = "-845"
+			Y = "293"
+			Width = "434"
+			Height = "40"
+			Flags = "0"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			IsDisabled = "0"
+			IsReadOnly = "0"
+			HasHorzScrollBar = "0"
+			HasVertScrollBar = "1"
+			WordWrap = "1"
+			Mirror = "0"
+			HorzOffset = "0"
+			FirstVisibleLine = "1"
+			HorzAlign = "Left"
+			OverrideTextColour = "0"
+			OverrideDisabledTextColour = "0"
+			OverrideFillColour = "0"
+			OverrideDisabledFillColour = "0"
+			OverrideBorderColour = "0"
+			TextColour = "0,0,0,0,9"
+			DisabledTextColour = "161,161,146,0,18"
+			FillColour = "255,255,255,0,6"
+			DisabledFillColour = "236,233,216,0,16"
+			BorderColour = "164,185,127,0,12"
+			NextCID = "2">
+			<Text
+				CID = "1">
+				ALAMAT TIDAK JELAS
+			</Text>
+		</Element>
+		<Element
+			CID = "1469131146"
+			Type = "StaticText"
+			X = "-965"
+			Y = "290"
+			Width = "90"
+			Height = "21"
+			Flags = "0"
+			FillColour = "236,233,216,0,16"
+			TextColour = "0,0,0,0,19"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			Text = "Note"
+			IsDisabled = "0"
+			Fill = "None"
+			HorzAlign = "Right"
+			VertAlign = "Centre"/>
+		<Element
+			CID = "1469141260"
+			Type = "StaticText"
+			X = "-963"
+			Y = "336"
+			Width = "90"
+			Height = "21"
+			Flags = "0"
+			FillColour = "236,233,216,0,16"
+			TextColour = "0,0,0,0,19"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			Text = "Pieces"
+			IsDisabled = "0"
+			Fill = "None"
+			HorzAlign = "Right"
+			VertAlign = "Centre"/>
+		<Element
+			CID = "1469127718"
+			Type = "EditBox"
+			X = "-845"
+			Y = "338"
+			Width = "26"
+			Height = "21"
+			Flags = "2"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			Text = "1"
+			IsDisabled = "0"
+			IsReadOnly = "1"
+			HorzAlign = "Left"
+			EditType = "Text"
+			OverrideTextColour = "0"
+			OverrideDisabledTextColour = "0"
+			OverrideFillColour = "0"
+			OverrideDisabledFillColour = "0"
+			OverrideBorderColour = "1"
+			MarginLeft = "0"
+			MarginRight = "0"
+			MarginTop = "0"
+			MarginBottom = "0"
+			TextColour = "0,0,0,0,9"
+			DisabledTextColour = "161,161,146,0,18"
+			FillColour = "255,255,153,0,0"
+			DisabledFillColour = "236,233,216,0,16"
+			BorderColour = "51,51,51,0,0"/>
+		<Element
+			CID = "1470200618"
+			Type = "StaticText"
+			X = "-677"
+			Y = "338"
+			Width = "90"
+			Height = "21"
+			Flags = "0"
+			FillColour = "236,233,216,0,16"
+			TextColour = "0,0,0,0,19"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			Text = "Weight"
+			IsDisabled = "0"
+			Fill = "None"
+			HorzAlign = "Right"
+			VertAlign = "Centre"/>
+		<Element
+			CID = "1470188954"
+			Type = "EditBox"
+			X = "-559"
+			Y = "340"
+			Width = "37"
+			Height = "21"
+			Flags = "2"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			Text = "1"
+			IsDisabled = "0"
+			IsReadOnly = "1"
+			HorzAlign = "Left"
+			EditType = "Text"
+			OverrideTextColour = "0"
+			OverrideDisabledTextColour = "0"
+			OverrideFillColour = "0"
+			OverrideDisabledFillColour = "0"
+			OverrideBorderColour = "1"
+			MarginLeft = "0"
+			MarginRight = "0"
+			MarginTop = "0"
+			MarginBottom = "0"
+			TextColour = "0,0,0,0,9"
+			DisabledTextColour = "161,161,146,0,18"
+			FillColour = "255,255,153,0,0"
+			DisabledFillColour = "236,233,216,0,16"
+			BorderColour = "51,51,51,0,0"/>
+		<Element
+			CID = "1470183046"
+			Type = "StaticText"
+			X = "-963"
+			Y = "266"
+			Width = "90"
+			Height = "21"
+			Flags = "0"
+			FillColour = "236,233,216,0,16"
+			TextColour = "0,0,0,0,19"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			Text = "Recipient"
+			IsDisabled = "0"
+			Fill = "None"
+			HorzAlign = "Right"
+			VertAlign = "Centre"/>
+		<Element
+			CID = "1470172925"
+			Type = "EditBox"
+			X = "-845"
+			Y = "268"
+			Width = "97"
+			Height = "21"
+			Flags = "2"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			Text = "-"
+			IsDisabled = "0"
+			IsReadOnly = "1"
+			HorzAlign = "Left"
+			EditType = "Text"
+			OverrideTextColour = "0"
+			OverrideDisabledTextColour = "0"
+			OverrideFillColour = "0"
+			OverrideDisabledFillColour = "0"
+			OverrideBorderColour = "1"
+			MarginLeft = "0"
+			MarginRight = "0"
+			MarginTop = "0"
+			MarginBottom = "0"
+			TextColour = "0,0,0,0,9"
+			DisabledTextColour = "161,161,146,0,18"
+			FillColour = "255,255,153,0,0"
+			DisabledFillColour = "236,233,216,0,16"
+			BorderColour = "51,51,51,0,0"/>
+		<Element
+			CID = "1470197782"
+			Type = "StaticText"
+			X = "-963"
+			Y = "380"
+			Width = "91"
+			Height = "26"
+			Flags = "0"
+			FillColour = "236,233,216,0,16"
+			TextColour = "0,0,0,0,19"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			Text = "VENDOR"
+			IsDisabled = "0"
+			Fill = "None"
+			HorzAlign = "Right"
+			VertAlign = "Centre"/>
+		<Element
+			CID = "1470193856"
+			Type = "EditBox"
+			X = "-844"
+			Y = "387"
+			Width = "100"
+			Height = "21"
+			Flags = "2"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			Text = "NCS"
+			IsDisabled = "0"
+			IsReadOnly = "1"
+			HorzAlign = "Left"
+			EditType = "Text"
+			OverrideTextColour = "0"
+			OverrideDisabledTextColour = "0"
+			OverrideFillColour = "0"
+			OverrideDisabledFillColour = "0"
+			OverrideBorderColour = "1"
+			MarginLeft = "0"
+			MarginRight = "0"
+			MarginTop = "0"
+			MarginBottom = "0"
+			TextColour = "0,0,0,0,9"
+			DisabledTextColour = "161,161,146,0,18"
+			FillColour = "255,255,153,0,0"
+			DisabledFillColour = "236,233,216,0,16"
+			BorderColour = "51,51,51,0,0"/>
+		<Element
+			CID = "315895408"
+			Type = "StaticText"
+			X = "61"
+			Y = "505"
+			Width = "71"
+			Height = "16"
+			Flags = "4096"
+			FillColour = "236,233,216,0,16"
+			TextColour = "0,0,0,0,19"
+			Typeface = ""
+			FontAttributes = "1"
+			TextSize = "70"
+			Text = "Total Data : 3"
+			IsDisabled = "0"
+			Fill = "None"
+			HorzAlign = "Left"
+			VertAlign = "Centre"/>
+		<Element
+			CID = "315889020"
+			Type = "StaticText"
+			X = "431"
+			Y = "504"
+			Width = "25"
+			Height = "17"
+			Flags = "8192"
+			FillColour = "236,233,216,0,16"
+			TextColour = "0,0,0,0,19"
+			Typeface = ""
+			FontAttributes = "1"
+			TextSize = "VerySmall"
+			Text = "Rows"
+			IsDisabled = "0"
+			Fill = "None"
+			HorzAlign = "Left"
+			VertAlign = "Centre"/>
+		<Element
+			CID = "315889376"
+			Type = "StaticText"
+			X = "503"
+			Y = "501"
+			Width = "23"
+			Height = "21"
+			Flags = "0"
+			FillColour = "236,233,216,0,16"
+			TextColour = "0,0,0,0,19"
+			Typeface = ""
+			FontAttributes = "1"
+			TextSize = "VerySmall"
+			Text = "Page"
+			IsDisabled = "0"
+			Fill = "None"
+			HorzAlign = "Left"
+			VertAlign = "Centre"/>
+		<Element
+			CID = "315895433"
+			Type = "EditBox"
+			X = "528"
+			Y = "502"
+			Width = "15"
+			Height = "21"
+			Flags = "2"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "VerySmall"
+			Text = "1"
+			IsDisabled = "0"
+			IsReadOnly = "0"
+			HorzAlign = "Centre"
+			EditType = "Text"
+			OverrideTextColour = "0"
+			OverrideDisabledTextColour = "0"
+			OverrideFillColour = "0"
+			OverrideDisabledFillColour = "0"
+			OverrideBorderColour = "1"
+			MarginLeft = "0"
+			MarginRight = "0"
+			MarginTop = "0"
+			MarginBottom = "0"
+			TextColour = "0,0,0,0,9"
+			DisabledTextColour = "161,161,146,0,18"
+			FillColour = "255,255,153,0,0"
+			DisabledFillColour = "236,233,216,0,16"
+			BorderColour = "51,51,51,0,0"/>
+		<Element
+			CID = "315889087"
+			Type = "ComboBox"
+			X = "461"
+			Y = "501"
+			Width = "37"
+			Height = "21"
+			Flags = "8706"
+			VariableName = "Rows"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "VerySmall"
+			Text = "10"
+			IsDisabled = "0"
+			IsEditable = "0"
+			IsFlat = "0"
+			Mirror = "0"
+			CustomStyle = "0"
+			HorzAlign = "Left"
+			OverrideTextColour = "0"
+			OverrideDisabledTextColour = "0"
+			OverrideFillColour = "0"
+			OverrideDisabledFillColour = "0"
+			OverrideBorderColour = "1"
+			TextColour = "0,0,0,0,9"
+			DisabledTextColour = "161,161,146,0,18"
+			FillColour = "240,240,255,0,0"
+			DisabledFillColour = "236,233,216,0,16"
+			BorderColour = "51,51,51,0,0"/>
+		<Element
+			CID = "315887737"
+			Type = "Bitmap"
+			X = "583"
+			Y = "506"
+			Width = "12"
+			Height = "12"
+			Flags = "8192"
+			RootPath = "$Container"
+			Filename = "..\..\Images\icon_arrowleft.gif"
+			Placement = "Stretch"
+			HorzAlign = "Left"
+			VertAlign = "Top"
+			ClipLeft = "0"
+			ClipRight = "0"
+			ClipTop = "0"
+			ClipBottom = "0"/>
+		<Element
+			CID = "315891309"
+			Type = "Bitmap"
+			X = "568"
+			Y = "506"
+			Width = "12"
+			Height = "12"
+			Flags = "0"
+			RootPath = "$Container"
+			Filename = "..\..\Images\icon_arrowright.gif"
+			Placement = "Stretch"
+			HorzAlign = "Left"
+			VertAlign = "Top"
+			ClipLeft = "0"
+			ClipRight = "0"
+			ClipTop = "0"
+			ClipBottom = "0"/>
+		<Element
+			CID = "316935324"
+			Type = "StaticText"
+			X = "546"
+			Y = "501"
+			Width = "17"
+			Height = "21"
+			Flags = "0"
+			FillColour = "236,233,216,0,16"
+			TextColour = "0,0,0,0,19"
+			Typeface = ""
+			FontAttributes = "1"
+			TextSize = "VerySmall"
+			Text = "/1"
+			IsDisabled = "0"
+			Fill = "None"
+			HorzAlign = "Left"
+			VertAlign = "Centre"/>
+		<Element
+			CID = "316932767"
+			Type = "HorizontalSeparatorLine"
+			X = "28"
+			Y = "532"
+			Width = "567"
+			Height = "12"
+			Flags = "2"/>
+		<Element
+			CID = "837835381"
+			Type = "TextButton"
+			X = "40"
+			Y = "544"
+			Width = "75"
+			Height = "23"
+			Flags = "0"
+			TextColour = "0,0,0,0,19"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			Text = "Back"
+			Depth = "2"
+			IsDefault = "1"
+			IsDisabled = "0"
+			MarginLeft = "0"
+			MarginRight = "0"
+			MarginTop = "0"
+			MarginBottom = "0"
+			AutoNavType = "Accept"/>
+		<Element
+			CID = "837826178"
+			Type = "StoryboardBackBox"
+			X = "296"
+			Y = "823"
+			Width = "120"
+			Height = "30"
+			Flags = "3"/>
+	</Elements>
+	<Connections
+		CID = "2">
+		<Connection
+			CID = "261231904"
+			Layer = "DesignElements"
+			Trigger = "LeftClick"
+			Type = "Navigation"
+			SubType = "ModalSelector"
+			SourceSubItemID = ""
+			SourceRefID = "261228109"
+			TargetRefID = "261239970"
+			ConLineWidth = "2"
+			ConLineColour = "0,0,0,0,0"/>
+		<Connection
+			CID = "1470175377"
+			Layer = "DesignElements"
+			Trigger = "LeftClick"
+			Type = "Navigation"
+			SubType = "Modal"
+			SourceSubItemID = ""
+			SourceRefID = "1469126888"
+			TargetRefID = "1469140942"
+			ConLineWidth = "2"
+			ConLineColour = "0,0,0,0,0"/>
+		<Connection
+			CID = "837841582"
+			Layer = "Storyboard"
+			Trigger = "LeftClick"
+			Type = "Back"
+			SubType = ""
+			SourceSubItemID = ""
+			SourceRefID = "837835381"
+			TargetRefID = "837826178"
+			ConLineWidth = "2"
+			ConLineColour = "0,0,0,0,0"/>
+	</Connections>
+	<Groups
+		CID = "3"/>
+	<SelectionGroups
+		CID = "4"/>
+	<Notes
+		CID = "5">
+		<Note
+			CID = "1423145713"
+			Name = "Description"
+			NextCID = "2">
+			<Text
+				CID = "1">
+				
+			</Text>
+		</Note>
+	</Notes>
+</Screen>

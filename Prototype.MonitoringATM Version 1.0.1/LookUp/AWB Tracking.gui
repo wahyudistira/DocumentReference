@@ -1,0 +1,266 @@
+<Screen
+	CID = "807041819"
+	AppID = "2"
+	AppVer = "4.2.115.0"
+	DocID = ""
+	HasCanvas = "0"
+	Width = "640"
+	Height = "480"
+	NextCID = "6"
+	RepresentativeRefID = "0"
+	UseDefRepresentative = "1">
+	<Elements
+		CID = "1">
+		<Element
+			CID = "943530790"
+			Type = "Rectangle"
+			X = "-120"
+			Y = "100"
+			Width = "844"
+			Height = "238"
+			Flags = "0"
+			HighlightColour = "250,250,250,0,21"
+			ShadowColour = "172,168,153,0,17"
+			FillColour = "236,233,216,0,16"
+			GradientColour = "172,168,153,0,17"
+			BorderColour = "28,81,128,0,7"
+			TextColour = "0,0,0,0,19"
+			Fill = "None"
+			Border = "Ridge"
+			TextPlacement = "Top"
+			HorzAlign = "Left"
+			BorderDepth = "1"
+			BorderWidth = "0"
+			Text = ""
+			TextOutsideExtent = "1"
+			IsDisabled = "0"/>
+		<Element
+			CID = "943541697"
+			Type = "Table"
+			X = "-105"
+			Y = "153"
+			Width = "751"
+			Height = "136"
+			Flags = "0"
+			HeaderBackgroundColour = "241,108,46,0,0"
+			HeaderBorderColour = "172,168,153,0,17"
+			HeaderTextColour = "255,255,255,0,0"
+			BackgroundColour = "172,168,153,0,13"
+			BorderColour = "102,102,102,0,0"
+			GridLineColour = "241,239,226,0,23"
+			SortedBlendColour = "64,64,64,0,0"
+			DefOddBackgroundColour = "254,197,177,0,0"
+			DefEvenBackgroundColour = "255,255,255,0,0"
+			DefTextColour = "0,0,0,0,9"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			NextColumnID = "30"
+			IsFlat = "0"
+			IsHeaderBold = "1"
+			IsTransparent = "0"
+			HasBorder = "1"
+			HasHorzScrollBar = "1"
+			HasVertScrollBar = "1"
+			Mirror = "0"
+			HasHorzLines = "1"
+			HasVertLines = "1"
+			HasExtHorzLines = "0"
+			HasExtVertLines = "0"
+			ExtendColumnHeaders = "1"
+			ExtendColumns = "1"
+			ExtendRows = "1"
+			VariableHeightRows = "1"
+			FullRowSelection = "1"
+			HeaderWordWrap = "0"
+			WordWrap = "0"
+			HeaderSpace = "0"
+			HeaderHeight = "25"
+			RowHeight = "18"
+			FirstVisibleRow = "0"
+			FixedColumns = "0"
+			SortedColumn = "0"
+			SortedBlendFactor = "0.000000"
+			ColumnSort = "Ascending"
+			HeaderStyle = "Standard"
+			FixedCellStyle = "SemiFlat">
+			<Columns>
+				<ColumnItem
+					OddBackgroundColour = "255,255,255,0,6"
+					EvenBackgroundColour = "255,255,255,0,6"
+					TextColour = "0,0,0,0,9"
+					ColumnID = "29"
+					Heading = "No"
+					Width = "50"
+					HeaderMargin = "0"
+					CellMargin = "0"
+					HasCustomOddBgColour = "0"
+					HasCustomEvenBgColour = "0"
+					HasCustomTextColour = "0"
+					HeadingAlignment = "Centre"
+					CellAlignment = "Centre"/>
+				<ColumnItem
+					OddBackgroundColour = "255,255,255,0,6"
+					EvenBackgroundColour = "255,255,255,0,6"
+					TextColour = "0,0,0,0,9"
+					ColumnID = "23"
+					Heading = "REF NO"
+					Width = "100"
+					HeaderMargin = "0"
+					CellMargin = "0"
+					HasCustomOddBgColour = "0"
+					HasCustomEvenBgColour = "0"
+					HasCustomTextColour = "0"
+					HeadingAlignment = "Left"
+					CellAlignment = "Centre"/>
+				<ColumnItem
+					OddBackgroundColour = "255,255,255,0,6"
+					EvenBackgroundColour = "255,255,255,0,6"
+					TextColour = "0,0,0,0,9"
+					ColumnID = "2"
+					Heading = "Date Time"
+					Width = "120"
+					HeaderMargin = "0"
+					CellMargin = "0"
+					HasCustomOddBgColour = "0"
+					HasCustomEvenBgColour = "0"
+					HasCustomTextColour = "0"
+					HeadingAlignment = "Left"
+					CellAlignment = "Centre"/>
+				<ColumnItem
+					OddBackgroundColour = "255,255,255,0,6"
+					EvenBackgroundColour = "255,255,255,0,6"
+					TextColour = "0,0,0,0,9"
+					ColumnID = "17"
+					Heading = "Description"
+					Width = "350"
+					HeaderMargin = "0"
+					CellMargin = "0"
+					HasCustomOddBgColour = "0"
+					HasCustomEvenBgColour = "0"
+					HasCustomTextColour = "0"
+					HeadingAlignment = "Centre"
+					CellAlignment = "Left"/>
+			</Columns>
+			<Data>
+				<Row
+					IsSelected = "0">
+					<Cell>
+						1
+					</Cell>
+					<Cell>
+						5046156
+					</Cell>
+					<Cell>
+						27/11/2017
+					</Cell>
+					<Cell>
+						Delivered
+					</Cell>
+				</Row>
+				<Row
+					IsSelected = "0">
+					<Cell>
+						2
+					</Cell>
+					<Cell>
+						5046156
+					</Cell>
+					<Cell>
+						27/11/2017
+					</Cell>
+					<Cell>
+						Arrived At BDG
+					</Cell>
+				</Row>
+				<Row
+					IsSelected = "0">
+					<Cell>
+						3
+					</Cell>
+					<Cell>
+						5046156
+					</Cell>
+					<Cell>
+						28/11/2017
+					</Cell>
+					<Cell>
+						Departure AT BRANCH
+					</Cell>
+				</Row>
+				<Row
+					IsSelected = "0">
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						
+					</Cell>
+				</Row>
+			</Data>
+		</Element>
+		<Element
+			CID = "948662473"
+			Type = "StaticText"
+			X = "-118"
+			Y = "102"
+			Width = "840"
+			Height = "21"
+			Flags = "0"
+			FillColour = "0,0,0,0,19"
+			TextColour = "255,255,246,0,30"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			Text = "AWB Tracking"
+			IsDisabled = "0"
+			Fill = "Solid"
+			HorzAlign = "Left"
+			VertAlign = "Centre"/>
+		<Element
+			CID = "1671437724"
+			Type = "TextButton"
+			X = "-98"
+			Y = "302"
+			Width = "75"
+			Height = "23"
+			Flags = "0"
+			TextColour = "0,0,0,0,19"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			Text = "Close"
+			Depth = "2"
+			IsDefault = "0"
+			IsDisabled = "0"
+			MarginLeft = "0"
+			MarginRight = "0"
+			MarginTop = "0"
+			MarginBottom = "0"
+			AutoNavType = "Close"/>
+	</Elements>
+	<Connections
+		CID = "2"/>
+	<Groups
+		CID = "3"/>
+	<SelectionGroups
+		CID = "4"/>
+	<Notes
+		CID = "5">
+		<Note
+			CID = "807011626"
+			Name = "Description"
+			NextCID = "2">
+			<Text
+				CID = "1">
+				
+			</Text>
+		</Note>
+	</Notes>
+</Screen>

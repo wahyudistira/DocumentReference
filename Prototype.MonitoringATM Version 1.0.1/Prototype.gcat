@@ -1,0 +1,303 @@
+<Catalogue
+	CID = "1"
+	NextCID = "2">
+	<Files
+		CID = "1">
+		<FileInfo
+			ID = "020419D7-795E-4E1F-A558698EC763B0FA"
+			RelativePath = "CardInventory\UploadData.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "Monitoring\UploadData.gui"/>
+		<FileInfo
+			ID = "037CEFAC-5293-418A-B82952F7B8035562"
+			RelativePath = "LookUp\LookUpMappingMasterForm.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "LookUp\LookUpMappingMasterForm.gui"/>
+		<FileInfo
+			ID = "0C979C20-4FD5-47F1-9EBCF98AF0F28B8D"
+			RelativePath = "Master\MapingMasterForm.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "Master\MapingMasterForm.gui"/>
+		<FileInfo
+			ID = "0EC5B7A3-FAFD-492F-BF67358C4329DD88"
+			RelativePath = "Images\insertdate.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "Images\insertdate.png"/>
+		<FileInfo
+			ID = "1005676E-4E6A-49A4-B00D7A2D696BBB92"
+			RelativePath = "CardInventory\DetailCardInventory.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "CardInventory\DetailCardList.gui"/>
+		<FileInfo
+			ID = "1142110A-D107-4697-A2F7BA3C3A8F8B6A"
+			RelativePath = "CITS\ATM\MainForm.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "CITS\ATM\MainForm.gui"/>
+		<FileInfo
+			ID = "157FDBED-41B5-44B2-97851466BFD8E4E7"
+			RelativePath = "CITS\Utama\HeaderForm.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "CITS\Utama\HeaderForm.gui"/>
+		<FileInfo
+			ID = "1589F866-A2F7-4951-B2DCAAD3EF13E682"
+			RelativePath = "CardInventory\PengembalianAtmToBox.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "Monitoring\PengembalianAtmToBox.gui"
+			IsDeleted = "1"/>
+		<FileInfo
+			ID = "15D5E9CE-DB49-4580-B79F505B66120E29"
+			RelativePath = "Master\SlaCargoShipperMasterForm.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "Master\SlaMasterForm.gui"/>
+		<FileInfo
+			ID = "23C24B99-1BD0-4CED-9CEB02B4CEEB67DB"
+			RelativePath = "CITS\ATM\UploadMainForm.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "CITS\ATM\UploadFormMain.gui"/>
+		<FileInfo
+			ID = "298B8919-2FD1-49F5-8CBBFB6110AD4BDC"
+			RelativePath = "CITS\ATM\ApprovalGemaltoForm.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "CITS\ATM\ApprovalGemalto.gui"/>
+		<FileInfo
+			ID = "2A442EE7-DDAE-4F93-BC2EF57812F6A81B"
+			RelativePath = "LookUp\LookUpDaftarATM.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "LookUp\LookUpDaftarATM.gui"/>
+		<FileInfo
+			ID = "2A6B9125-C418-497F-816D6E6989628C51"
+			RelativePath = "CITS\ATM\ApprovalCMSForm.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "CITS\ATM\ApprovalCMS.gui"/>
+		<FileInfo
+			ID = "2B39EF8C-B643-4D17-8DB5D525C115BF1F"
+			RelativePath = "CardInventory\ApprovalMainForm.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "CardInventory\ApprovalMainForm.gui"/>
+		<FileInfo
+			ID = "2FAD296F-35D1-4C41-B38861098C851211"
+			RelativePath = "CITS\Pemgembalian\DetailATMKembaliForm.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "CITS\Pemgembalian\DetailATMKembaliForm.gui"/>
+		<FileInfo
+			ID = "3107EE2A-CE73-4BF5-93BC7CC69995D712"
+			RelativePath = "CITS\ATM\DaftarATMForm.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "CITS\ATM\DaftarATMform.gui"/>
+		<FileInfo
+			ID = "392D7DD0-5636-43E8-94262F25E6C0973A"
+			RelativePath = "CardInventory\ApprovalUploadCmsForm.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "CardInventory\ApprovalUploadCmsForm.gui"/>
+		<FileInfo
+			ID = "46DB49A6-EC31-420A-AE147F0CEFB05FA2"
+			RelativePath = "CITS\Report\RptStatusATMForm.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "CITS\Report\RptStatusATMForm.gui"/>
+		<FileInfo
+			ID = "508FE943-7C75-4BEC-847DE633FEDEFBF0"
+			RelativePath = "CardInventory\MonitoringForm.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "Monitoring\FormMain.gui"
+			IsDeleted = "1"/>
+		<FileInfo
+			ID = "537618F7-0407-467B-9CBBCF6F6282D383"
+			RelativePath = "CITS\Utama\LeftMenuForm.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "CITS\Utama\LeftMenuForm.gui"/>
+		<FileInfo
+			ID = "5523BE2C-8DAF-4FDF-899EE8B1EFC9D68D"
+			RelativePath = "Images\icon_arrowright.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "Images\icon_arrowright.png"/>
+		<FileInfo
+			ID = "57F71D99-6CFC-4804-B004B3FFEC65CC1E"
+			RelativePath = "CITS\SMS\UploadSmsForm.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "CITS\SMS\UploadSmsForm.gui"/>
+		<FileInfo
+			ID = "5810ADAD-D057-4EA0-ABB7796649597358"
+			RelativePath = "LookUp\LookUpZipcodeDetailForm.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "LookUp\LookUpZipcodeForm.gui"/>
+		<FileInfo
+			ID = "6AE8DFE0-2B08-481F-A63D9C97D932C8E3"
+			RelativePath = "CITS\Monitoring\MonitoringForm.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "CITS\Utama\MonitoringForm.gui"/>
+		<FileInfo
+			ID = "6D84083F-BFE5-4F29-8393D639B25F08CE"
+			RelativePath = "CITS\SMS\DaftarTelecallForm.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "CITS\SMS\DaftarTelecallForm.gui"/>
+		<FileInfo
+			ID = "7288B97C-596F-47C0-97F75CDE0062D51E"
+			RelativePath = "CITS\Monitoring\HistoryUploadForm.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "CITS\Monitoring\HistoryUpload.gui"/>
+		<FileInfo
+			ID = "7DCC9EF1-4475-4279-91389A49C6F0DCB6"
+			RelativePath = "CITS\SMS\UploadTelecallForm.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "CITS\SMS\UploadTelecallForm.gui"/>
+		<FileInfo
+			ID = "8703FC42-4339-4DF2-9EEFA7160179E406"
+			RelativePath = "CITS\Monitoring\HistoryStatusATMForm.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "CITS\Utama\HistoryStatusATMForm.gui"/>
+		<FileInfo
+			ID = "88FA333C-F907-496D-B3B968671A6A3D9C"
+			RelativePath = "SmsBlast\TelecallListForm.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "SmsBlast\TelecallListForm.gui"/>
+		<FileInfo
+			ID = "8C5002AF-1A0E-424B-9D3184EAA12854F7"
+			RelativePath = "CardInventory\ApprovedUploadGemaltoForm.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "CardInventory\ApprovedUploadGemaltoForm.gui"/>
+		<FileInfo
+			ID = "8C637A2F-EE73-451D-8E1613D26F0E1BBE"
+			RelativePath = "CITS\Pemgembalian\CardRetrievalForm.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "CITS\Pemgembalian\CardRetrievalForm.gui"/>
+		<FileInfo
+			ID = "8CBD04C6-C4C5-4F13-86E1EDF4E624EFC9"
+			RelativePath = "CITS\SMS\DaftarSmsForm.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "CITS\SMS\DaftarSmsForm.gui"/>
+		<FileInfo
+			ID = "8F1409C8-069A-4576-AFEB535D2D189B86"
+			RelativePath = "CITS\ATM\UploadVendorForm.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "CITS\ATM\UploadVendorForm.gui"/>
+		<FileInfo
+			ID = "9476C9CC-8D74-4AD8-BFFA65A29FFEDA21"
+			RelativePath = "STARTHEREFORM.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "STARTHEREFORM.gui"/>
+		<FileInfo
+			ID = "9899E574-035A-43B2-8E287912EB783F8D"
+			RelativePath = "CardInventory\UploadDatafile.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "CardInventory\UploadDatafile.gui"
+			IsDeleted = "1"/>
+		<FileInfo
+			ID = "98EADAED-FC49-404F-BBAEC95540ECF0F1"
+			RelativePath = "CardInventory\MonitoringCardList_OLD.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "Monitoring\MonitoringAtmForm.gui"
+			IsDeleted = "1"/>
+		<FileInfo
+			ID = "A3F28890-97C3-4D7F-863CCA58D9BB0135"
+			RelativePath = "SmsBlast\TeleCallUploadForm.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "SmsBlast\TeleCallUploadForm.gui"/>
+		<FileInfo
+			ID = "A8C4A29C-DDEB-4CEB-AA6237EE125EE2AD"
+			RelativePath = "CardInventory\CardInventoryList.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "CardInventory\MonitoringCardList.gui"/>
+		<FileInfo
+			ID = "AA6C103D-FCA9-42B4-BA648D1336477D39"
+			RelativePath = "Images\icon_lookupform.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "Images\icon_lookupform.png"/>
+		<FileInfo
+			ID = "AFF785BB-E0B3-48D5-A76E8E27AE3D75E5"
+			RelativePath = "CITS\Report\RptSmsBlastForm.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "CITS\Report\RptSmsBlastForm.gui"/>
+		<FileInfo
+			ID = "B3798A79-D24E-4D19-9933EEDA90724CCE"
+			RelativePath = "CardInventory\ApprovalUploadCargo.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "CardInventory\ApprovalUploadCargo.gui"/>
+		<FileInfo
+			ID = "BC3191EE-2900-4445-A95F6023819F21C8"
+			RelativePath = "CITS\Pemgembalian\DetailCardRetrievalForm.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "CITS\Pemgembalian\DetailATMReturnForm.gui"/>
+		<FileInfo
+			ID = "BD8C1F90-BFB8-4508-982DB17602D6381A"
+			RelativePath = "CITS\ATM\ApprovalVendorForm.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "CITS\ATM\ApprovalVendorForm.gui"/>
+		<FileInfo
+			ID = "C0BC2EA6-3C3F-4D6A-8AAB49F56C741E12"
+			RelativePath = "LookUp\LookupSlaMasterDetailForm.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "LookUp\LookupSlaMasterDetailForm.gui"/>
+		<FileInfo
+			ID = "CBEFAF81-1579-44C1-99A35416B013CB1A"
+			RelativePath = "CITS\ATM\UploadGemaltoForm.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "CITS\ATM\UploadGemaltoForm.gui"/>
+		<FileInfo
+			ID = "CF9C6C97-BBD4-4BF1-8A395B1E6A85A836"
+			RelativePath = "LookUp\AWB Tracking.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "LookUp\AWB Tracking.gui"/>
+		<FileInfo
+			ID = "D007CEB8-E057-4E3D-B35A07A96FB0D62B"
+			RelativePath = "Report\RptInvoiceForm1.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "Report\RptInvoiceForm1.gui"/>
+		<FileInfo
+			ID = "D80EA396-180F-463D-A65B3E7DF267450B"
+			RelativePath = "CITS\Utama\FooterForm.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "CITS\Utama\FooterForm.gui"/>
+		<FileInfo
+			ID = "E1FF0469-1922-4C58-8F71865DD2C92171"
+			RelativePath = "Images\icon_arrowleft.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "Images\icon_arrowleft.png"/>
+		<FileInfo
+			ID = "E499D270-A28E-4553-AA627BB54D5578BB"
+			RelativePath = "CITS\Pemgembalian\BarcodingATMForm.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "CITS\Pemgembalian\BarcodingATM.gui"/>
+		<FileInfo
+			ID = "E5FC42A2-931C-4A19-B3AEECF22440C714"
+			RelativePath = "CITS\ATM\detailATMForm.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "CITS\ATM\detailATM.gui"/>
+		<FileInfo
+			ID = "E6D4BC0B-1B3E-4DA3-9F518EFE64F13DB5"
+			RelativePath = "Images\WindowsDialog.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "Images\WindowsDialog.png"/>
+		<FileInfo
+			ID = "EA320961-C2C6-4C42-9ADE257DCF0F4123"
+			RelativePath = "Master\ZipCodeMasterForm.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "Master\ZipCodeMasterForm.gui"
+			IsDeleted = "1"/>
+		<FileInfo
+			ID = "EA6E86C3-C4F1-47D4-8D91D74F01E79280"
+			RelativePath = "CITS\ATM\UploadCMSForm.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "CITS\ATM\UploadCMSForm.gui"/>
+		<FileInfo
+			ID = "EF001CAD-3B0B-4225-A3959F8A59D591CB"
+			RelativePath = "CITS\Report\RptInoviceForm.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "CITS\Report\RptInoviceForm.gui"/>
+		<FileInfo
+			ID = "FC863D24-A71F-4E9B-B5D4A3CAA57893BF"
+			RelativePath = "CardInventory\LogHistoryCargoForm.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "CardInventory\LogHistoryCargoForm.gui"/>
+		<FileInfo
+			ID = "FD759A76-6848-4B7C-9562FC1D74746424"
+			RelativePath = "CITS\ATM\ApprovedMainForm.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "CITS\ATM\ApprovedMainForm.gui"/>
+		<FileInfo
+			ID = "FF05415E-2B1D-455B-83A2837B619F2B76"
+			RelativePath = "CITS\Utama\LeftMenuHide.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "CITS\Utama\LeftMenuHide.gui"
+			IsDeleted = "1"/>
+	</Files>
+</Catalogue>

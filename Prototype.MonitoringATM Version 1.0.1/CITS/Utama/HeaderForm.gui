@@ -1,0 +1,191 @@
+<Screen
+	CID = "1196981369"
+	AppID = "2"
+	AppVer = "4.2.115.0"
+	DocID = ""
+	HasCanvas = "0"
+	Width = "640"
+	Height = "480"
+	NextCID = "6"
+	RepresentativeRefID = "0"
+	UseDefRepresentative = "1">
+	<Elements
+		CID = "1">
+		<Element
+			CID = "118901862"
+			Type = "WebPagePart"
+			X = "343"
+			Y = "366"
+			Width = "750"
+			Height = "80"
+			Flags = "0"
+			FillColour = "255,255,255,0,0"
+			MarginLeft = "12"
+			MarginRight = "12"
+			MarginTop = "12"
+			MarginBottom = "12"
+			Fill = "None"/>
+		<Element
+			CID = "118910006"
+			Type = "Rectangle"
+			X = "343"
+			Y = "442"
+			Width = "750"
+			Height = "4"
+			Flags = "0"
+			HighlightColour = "250,250,250,0,21"
+			ShadowColour = "172,168,153,0,17"
+			FillColour = "153,153,153,0,0"
+			GradientColour = "255,255,255,0,0"
+			BorderColour = "28,81,128,0,7"
+			TextColour = "0,0,0,0,19"
+			Fill = "VerticalGradient"
+			Border = "None"
+			TextPlacement = "Top"
+			HorzAlign = "Left"
+			BorderDepth = "2"
+			BorderWidth = "2"
+			Text = ""
+			TextOutsideExtent = "1"
+			IsDisabled = "0"/>
+		<Element
+			CID = "118890463"
+			Type = "Rectangle"
+			X = "474"
+			Y = "366"
+			Width = "619"
+			Height = "76"
+			Flags = "0"
+			HighlightColour = "250,250,250,0,21"
+			ShadowColour = "172,168,153,0,17"
+			FillColour = "255,157,111,0,0"
+			GradientColour = "172,168,153,0,17"
+			BorderColour = "28,81,128,0,7"
+			TextColour = "0,0,0,0,19"
+			Fill = "Solid"
+			Border = "None"
+			TextPlacement = "Top"
+			HorzAlign = "Left"
+			BorderDepth = "2"
+			BorderWidth = "2"
+			Text = ""
+			TextOutsideExtent = "1"
+			IsDisabled = "0"/>
+		<Element
+			CID = "118886150"
+			Type = "DesignGrid"
+			X = "474"
+			Y = "366"
+			Width = "619"
+			Height = "76"
+			Flags = "0"
+			HorzLineColour = "28,81,128,0,7"
+			VertLineColour = "28,81,128,0,7"
+			ShadowColour = "28,81,128,0,7"
+			HighlightColour = "28,81,128,0,7"
+			FillColour = "255,255,255,0,6"
+			UnderlayColour = "192,192,255,0,0"
+			OuterMarginLeft = "30"
+			OuterMarginRight = "30"
+			OuterMarginTop = "12"
+			OuterMarginBottom = "15"
+			InnerMarginLeft = "0"
+			InnerMarginRight = "0"
+			InnerMarginTop = "0"
+			InnerMarginBottom = "0"
+			ColumnType = "Count"
+			Columns = "1"
+			ColumnEvery = "40"
+			ColumnSpacing = "8"
+			RowType = "Count"
+			Rows = "1"
+			RowEvery = "30"
+			RowSpacing = "5"
+			ShowHorzLines = "0"
+			ShowVertLines = "0"
+			ShowCellBorders = "0"
+			FillCells = "0"
+			ManualUnderlay = "0"/>
+		<Element
+			CID = "118888668"
+			Type = "StaticText"
+			X = "504"
+			Y = "397"
+			Width = "399"
+			Height = "35"
+			Flags = "0"
+			FillColour = "236,233,216,0,16"
+			TextColour = "102,102,102,0,0"
+			Typeface = "Verdana"
+			FontAttributes = "0"
+			TextSize = "140"
+			Text = "CARD INVENTORY SYSTEM &amp; TRACKING"
+			IsDisabled = "0"
+			Fill = "None"
+			HorzAlign = "Left"
+			VertAlign = "Top"/>
+		<Element
+			CID = "118903913"
+			Type = "StaticText"
+			X = "504"
+			Y = "392"
+			Width = "382"
+			Height = "35"
+			Flags = "0"
+			FillColour = "236,233,216,0,16"
+			TextColour = "255,255,255,0,0"
+			Typeface = "Verdana"
+			FontAttributes = "0"
+			TextSize = "140"
+			Text = "CARD INVENTORY SYSTEM &amp; TRACKING"
+			IsDisabled = "0"
+			Fill = "None"
+			HorzAlign = "Left"
+			VertAlign = "Top"/>
+		<Element
+			CID = "118897093"
+			Type = "TextLinkList"
+			X = "943"
+			Y = "395"
+			Width = "120"
+			Height = "21"
+			Flags = "0"
+			TextColour = "255,255,255,0,0"
+			SeparatorColour = "255,255,255,0,0"
+			Typeface = "Arial"
+			FontAttributes = "1"
+			TextSize = "100"
+			NextItemID = "6"
+			SeparatorText = "|"
+			SeparatorLeftMargin = "6"
+			SeparatorRightMargin = "6"
+			Mirror = "0"
+			HorzAlign = "Right"
+			VertAlign = "Centre">
+			<TextLinkListItem
+				Item = "Help"
+				ItemID = "4"/>
+			<TextLinkListItem
+				Item = "Log Out"
+				ItemID = "5"/>
+		</Element>
+	</Elements>
+	<Connections
+		CID = "2"/>
+	<Groups
+		CID = "3"/>
+	<SelectionGroups
+		CID = "4"/>
+	<Notes
+		CID = "5">
+		<Note
+			CID = "1196973566"
+			Name = "Description"
+			NextCID = "2">
+			<Text
+				CID = "1">
+				
+			</Text>
+		</Note>
+	</Notes>
+</Screen>

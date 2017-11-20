@@ -1,0 +1,1131 @@
+<Screen
+	CID = "112995559"
+	AppID = "2"
+	AppVer = "4.2.115.0"
+	DocID = ""
+	HasCanvas = "0"
+	Width = "640"
+	Height = "480"
+	NextCID = "6"
+	RepresentativeRefID = "0"
+	UseDefRepresentative = "1">
+	<Elements
+		CID = "1">
+		<Element
+			CID = "540299859"
+			Type = "Rectangle"
+			X = "-67"
+			Y = "-44"
+			Width = "811"
+			Height = "673"
+			Flags = "0"
+			HighlightColour = "250,250,250,0,21"
+			ShadowColour = "172,168,153,0,17"
+			FillColour = "251,240,236,0,0"
+			GradientColour = "255,255,255,0,0"
+			BorderColour = "28,81,128,0,7"
+			TextColour = "0,0,0,0,19"
+			Fill = "VerticalGradient"
+			Border = "None"
+			TextPlacement = "Top"
+			HorzAlign = "Left"
+			BorderDepth = "2"
+			BorderWidth = "2"
+			Text = ""
+			TextOutsideExtent = "1"
+			IsDisabled = "0"/>
+		<Element
+			CID = "541336632"
+			Type = "StaticText"
+			X = "-67"
+			Y = "-44"
+			Width = "811"
+			Height = "25"
+			Flags = "0"
+			FillColour = "34,32,31,0,0"
+			TextColour = "255,255,255,0,0"
+			Typeface = "Arial"
+			FontAttributes = "1"
+			TextSize = "100"
+			Text = "    Holiday Vendor"
+			IsDisabled = "0"
+			Fill = "Solid"
+			HorzAlign = "Left"
+			VertAlign = "Centre"/>
+		<Element
+			CID = "541331661"
+			Type = "StaticText"
+			X = "-67"
+			Y = "31"
+			Width = "100"
+			Height = "21"
+			Flags = "0"
+			FillColour = "236,233,216,0,16"
+			TextColour = "0,0,0,0,19"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			Text = "Tahun :"
+			IsDisabled = "0"
+			Fill = "None"
+			HorzAlign = "Right"
+			VertAlign = "Centre"/>
+		<Element
+			CID = "541347440"
+			Type = "ComboBox"
+			X = "54"
+			Y = "34"
+			Width = "72"
+			Height = "21"
+			Flags = "2"
+			VariableName = "Year"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			Text = "2013"
+			IsDisabled = "0"
+			IsEditable = "0"
+			IsFlat = "0"
+			Mirror = "0"
+			CustomStyle = "0"
+			HorzAlign = "Left"
+			OverrideTextColour = "0"
+			OverrideDisabledTextColour = "0"
+			OverrideFillColour = "0"
+			OverrideDisabledFillColour = "0"
+			OverrideBorderColour = "1"
+			TextColour = "0,0,0,0,9"
+			DisabledTextColour = "161,161,146,0,18"
+			FillColour = "240,240,255,0,0"
+			DisabledFillColour = "236,233,216,0,16"
+			BorderColour = "51,51,51,0,0"/>
+		<Element
+			CID = "541347026"
+			Type = "ListBox"
+			X = "-184"
+			Y = "98"
+			Width = "70"
+			Height = "96"
+			Flags = "0"
+			VariableName = "Year"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			NextItemID = "22"
+			IsDisabled = "0"
+			HasHorzScrollBar = "0"
+			HasVertScrollBar = "1"
+			Mirror = "0"
+			WordWrap = "0"
+			IsFlat = "0"
+			AutoHeight = "0"
+			HorzOffset = "0"
+			HorzMargin = "0"
+			FirstVisibleItem = "1"
+			ItemHeight = "16"
+			MaxVisibleItems = "20"
+			HorzAlign = "Left"
+			VertAlign = "Centre">
+			<ListBoxItem
+				ItemID = "14"
+				Value = "2013"
+				IsSelected = "0"/>
+			<ListBoxItem
+				ItemID = "15"
+				Value = "2014"
+				IsSelected = "0"/>
+			<ListBoxItem
+				ItemID = "16"
+				Value = "2015"
+				IsSelected = "0"/>
+			<ListBoxItem
+				ItemID = "17"
+				Value = "2016"
+				IsSelected = "0"/>
+			<ListBoxItem
+				ItemID = "18"
+				Value = "2017"
+				IsSelected = "0"/>
+			<ListBoxItem
+				ItemID = "19"
+				Value = "2018"
+				IsSelected = "0"/>
+			<ListBoxItem
+				ItemID = "20"
+				Value = "2019"
+				IsSelected = "0"/>
+			<ListBoxItem
+				ItemID = "21"
+				Value = "2020"
+				IsSelected = "0"/>
+		</Element>
+		<Element
+			CID = "541337467"
+			Type = "TextButton"
+			X = "-43"
+			Y = "589"
+			Width = "98"
+			Height = "23"
+			Flags = "4096"
+			TextColour = "0,0,0,0,19"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			Text = "Save"
+			Depth = "2"
+			IsDefault = "0"
+			IsDisabled = "0"
+			MarginLeft = "0"
+			MarginRight = "0"
+			MarginTop = "0"
+			MarginBottom = "0"
+			AutoNavType = ""/>
+		<Element
+			CID = "541352708"
+			Type = "CheckTree"
+			X = "-48"
+			Y = "69"
+			Width = "382"
+			Height = "506"
+			Flags = "0"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			NextItemID = "109"
+			IsDisabled = "0"
+			HasBorder = "1"
+			HasButtons = "1"
+			HasLines = "1"
+			HasLinesAtRoot = "0"
+			HasHorzScrollBar = "0"
+			HasVertScrollBar = "1"
+			Mirror = "0"
+			WordWrap = "0"
+			IconMargin = "0"
+			ItemHeight = "16"
+			Icons = "">
+			<TreeItem
+				ItemID = "77"
+				Text = "1 Tuesday"
+				IsBold = "0"
+				IsChecked = "1"
+				IsExpanded = "0"
+				IsSelected = "1"/>
+			<TreeItem
+				ItemID = "78"
+				Text = "2 Wednesday"
+				IsBold = "0"
+				IsChecked = "0"
+				IsExpanded = "0"
+				IsSelected = "0"/>
+			<TreeItem
+				ItemID = "79"
+				Text = "3 Thursday"
+				IsBold = "0"
+				IsChecked = "0"
+				IsExpanded = "0"
+				IsSelected = "0"/>
+			<TreeItem
+				ItemID = "80"
+				Text = "4 Friday"
+				IsBold = "0"
+				IsChecked = "0"
+				IsExpanded = "0"
+				IsSelected = "0"/>
+			<TreeItem
+				ItemID = "81"
+				Text = "5 Saturday"
+				IsBold = "0"
+				IsChecked = "1"
+				IsExpanded = "0"
+				IsSelected = "0"/>
+			<TreeItem
+				ItemID = "82"
+				Text = "6 Sunday"
+				IsBold = "0"
+				IsChecked = "1"
+				IsExpanded = "0"
+				IsSelected = "0"/>
+			<TreeItem
+				ItemID = "83"
+				Text = "7 Monday"
+				IsBold = "0"
+				IsChecked = "0"
+				IsExpanded = "0"
+				IsSelected = "0"/>
+			<TreeItem
+				ItemID = "84"
+				Text = "8 Tuesday"
+				IsBold = "0"
+				IsChecked = "0"
+				IsExpanded = "0"
+				IsSelected = "0"/>
+			<TreeItem
+				ItemID = "85"
+				Text = "9 Wednesday"
+				IsBold = "0"
+				IsChecked = "0"
+				IsExpanded = "0"
+				IsSelected = "0"/>
+			<TreeItem
+				ItemID = "86"
+				Text = "10 Thursday"
+				IsBold = "0"
+				IsChecked = "0"
+				IsExpanded = "0"
+				IsSelected = "0"/>
+			<TreeItem
+				ItemID = "87"
+				Text = "11 Friday"
+				IsBold = "0"
+				IsChecked = "0"
+				IsExpanded = "0"
+				IsSelected = "0"/>
+			<TreeItem
+				ItemID = "88"
+				Text = "12 Saturday"
+				IsBold = "0"
+				IsChecked = "1"
+				IsExpanded = "0"
+				IsSelected = "0"/>
+			<TreeItem
+				ItemID = "89"
+				Text = "13 Sunday"
+				IsBold = "0"
+				IsChecked = "1"
+				IsExpanded = "0"
+				IsSelected = "0"/>
+			<TreeItem
+				ItemID = "90"
+				Text = "14 Monday"
+				IsBold = "0"
+				IsChecked = "0"
+				IsExpanded = "0"
+				IsSelected = "0"/>
+			<TreeItem
+				ItemID = "91"
+				Text = "15 Tuesday"
+				IsBold = "0"
+				IsChecked = "0"
+				IsExpanded = "0"
+				IsSelected = "0"/>
+			<TreeItem
+				ItemID = "92"
+				Text = "16 Wednesday"
+				IsBold = "0"
+				IsChecked = "0"
+				IsExpanded = "0"
+				IsSelected = "0"/>
+			<TreeItem
+				ItemID = "93"
+				Text = "17 Thursday"
+				IsBold = "0"
+				IsChecked = "0"
+				IsExpanded = "0"
+				IsSelected = "0"/>
+			<TreeItem
+				ItemID = "94"
+				Text = "18 Friday"
+				IsBold = "0"
+				IsChecked = "0"
+				IsExpanded = "0"
+				IsSelected = "0"/>
+			<TreeItem
+				ItemID = "95"
+				Text = "19 Saturday"
+				IsBold = "0"
+				IsChecked = "1"
+				IsExpanded = "0"
+				IsSelected = "0"/>
+			<TreeItem
+				ItemID = "96"
+				Text = "20 Sunday"
+				IsBold = "0"
+				IsChecked = "1"
+				IsExpanded = "0"
+				IsSelected = "0"/>
+			<TreeItem
+				ItemID = "97"
+				Text = "21 Monday"
+				IsBold = "0"
+				IsChecked = "0"
+				IsExpanded = "0"
+				IsSelected = "0"/>
+			<TreeItem
+				ItemID = "98"
+				Text = "22 Tuesday"
+				IsBold = "0"
+				IsChecked = "0"
+				IsExpanded = "0"
+				IsSelected = "0"/>
+			<TreeItem
+				ItemID = "99"
+				Text = "23 Wednesday"
+				IsBold = "0"
+				IsChecked = "0"
+				IsExpanded = "0"
+				IsSelected = "0"/>
+			<TreeItem
+				ItemID = "100"
+				Text = "24 Thursday"
+				IsBold = "0"
+				IsChecked = "0"
+				IsExpanded = "0"
+				IsSelected = "0"/>
+			<TreeItem
+				ItemID = "101"
+				Text = "25 Friday"
+				IsBold = "0"
+				IsChecked = "0"
+				IsExpanded = "0"
+				IsSelected = "0"/>
+			<TreeItem
+				ItemID = "102"
+				Text = "26 Saturday"
+				IsBold = "0"
+				IsChecked = "1"
+				IsExpanded = "0"
+				IsSelected = "0"/>
+			<TreeItem
+				ItemID = "104"
+				Text = "27 Sunday"
+				IsBold = "0"
+				IsChecked = "1"
+				IsExpanded = "0"
+				IsSelected = "0"/>
+			<TreeItem
+				ItemID = "105"
+				Text = "28 Monday"
+				IsBold = "0"
+				IsChecked = "0"
+				IsExpanded = "0"
+				IsSelected = "0"/>
+			<TreeItem
+				ItemID = "106"
+				Text = "29 Tuesday"
+				IsBold = "0"
+				IsChecked = "0"
+				IsExpanded = "0"
+				IsSelected = "0"/>
+			<TreeItem
+				ItemID = "107"
+				Text = "30 Wednesday"
+				IsBold = "0"
+				IsChecked = "0"
+				IsExpanded = "0"
+				IsSelected = "0"/>
+			<TreeItem
+				ItemID = "108"
+				Text = "31 Thursday"
+				IsBold = "0"
+				IsChecked = "0"
+				IsExpanded = "0"
+				IsSelected = "0"/>
+		</Element>
+		<Element
+			CID = "541337355"
+			Type = "StaticText"
+			X = "133"
+			Y = "34"
+			Width = "43"
+			Height = "21"
+			Flags = "0"
+			FillColour = "236,233,216,0,16"
+			TextColour = "0,0,0,0,19"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			Text = "Bulan :"
+			IsDisabled = "0"
+			Fill = "None"
+			HorzAlign = "Right"
+			VertAlign = "Centre"/>
+		<Element
+			CID = "541338495"
+			Type = "ComboBox"
+			X = "189"
+			Y = "34"
+			Width = "72"
+			Height = "21"
+			Flags = "2"
+			VariableName = "Month"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			Text = "Januari"
+			IsDisabled = "0"
+			IsEditable = "0"
+			IsFlat = "0"
+			Mirror = "0"
+			CustomStyle = "0"
+			HorzAlign = "Left"
+			OverrideTextColour = "0"
+			OverrideDisabledTextColour = "0"
+			OverrideFillColour = "0"
+			OverrideDisabledFillColour = "0"
+			OverrideBorderColour = "1"
+			TextColour = "0,0,0,0,9"
+			DisabledTextColour = "161,161,146,0,18"
+			FillColour = "240,240,255,0,0"
+			DisabledFillColour = "236,233,216,0,16"
+			BorderColour = "51,51,51,0,0"/>
+		<Element
+			CID = "541347639"
+			Type = "ListBox"
+			X = "559"
+			Y = "-80"
+			Width = "70"
+			Height = "96"
+			Flags = "0"
+			VariableName = "Month"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			NextItemID = "34"
+			IsDisabled = "0"
+			HasHorzScrollBar = "0"
+			HasVertScrollBar = "1"
+			Mirror = "0"
+			WordWrap = "0"
+			IsFlat = "0"
+			AutoHeight = "0"
+			HorzOffset = "0"
+			HorzMargin = "0"
+			FirstVisibleItem = "1"
+			ItemHeight = "16"
+			MaxVisibleItems = "20"
+			HorzAlign = "Left"
+			VertAlign = "Centre">
+			<ListBoxItem
+				ItemID = "22"
+				Value = "January"
+				IsSelected = "0"/>
+			<ListBoxItem
+				ItemID = "23"
+				Value = "Februari"
+				IsSelected = "0"/>
+			<ListBoxItem
+				ItemID = "24"
+				Value = "March"
+				IsSelected = "0"/>
+			<ListBoxItem
+				ItemID = "25"
+				Value = "April"
+				IsSelected = "0"/>
+			<ListBoxItem
+				ItemID = "26"
+				Value = "May"
+				IsSelected = "0"/>
+			<ListBoxItem
+				ItemID = "27"
+				Value = "June"
+				IsSelected = "0"/>
+			<ListBoxItem
+				ItemID = "28"
+				Value = "July"
+				IsSelected = "0"/>
+			<ListBoxItem
+				ItemID = "29"
+				Value = "Augustus"
+				IsSelected = "0"/>
+			<ListBoxItem
+				ItemID = "30"
+				Value = "September"
+				IsSelected = "0"/>
+			<ListBoxItem
+				ItemID = "31"
+				Value = "October"
+				IsSelected = "0"/>
+			<ListBoxItem
+				ItemID = "32"
+				Value = "November"
+				IsSelected = "0"/>
+			<ListBoxItem
+				ItemID = "33"
+				Value = "December"
+				IsSelected = "0"/>
+		</Element>
+		<Element
+			CID = "352218875"
+			Type = "EditBox"
+			X = "54"
+			Y = "-3"
+			Width = "120"
+			Height = "21"
+			Flags = "2"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			Text = "JNE"
+			IsDisabled = "0"
+			IsReadOnly = "0"
+			HorzAlign = "Left"
+			EditType = "Text"
+			OverrideTextColour = "0"
+			OverrideDisabledTextColour = "0"
+			OverrideFillColour = "0"
+			OverrideDisabledFillColour = "0"
+			OverrideBorderColour = "0"
+			MarginLeft = "0"
+			MarginRight = "0"
+			MarginTop = "0"
+			MarginBottom = "0"
+			TextColour = "0,0,0,0,9"
+			DisabledTextColour = "161,161,146,0,18"
+			FillColour = "255,255,153,0,0"
+			DisabledFillColour = "236,233,216,0,16"
+			BorderColour = "164,185,127,0,12"/>
+		<Element
+			CID = "352192211"
+			Type = "StaticText"
+			X = "-64"
+			Y = "-1"
+			Width = "100"
+			Height = "21"
+			Flags = "0"
+			FillColour = "236,233,216,0,16"
+			TextColour = "0,0,0,0,19"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			Text = "Name Vendor"
+			IsDisabled = "0"
+			Fill = "None"
+			HorzAlign = "Right"
+			VertAlign = "Centre"/>
+		<Element
+			CID = "290851974"
+			Type = "Bitmap"
+			X = "188"
+			Y = "1"
+			Width = "16"
+			Height = "16"
+			Flags = "0"
+			RootPath = "$Container"
+			Filename = "..\Images\icon_lookupform.gif"
+			Placement = "Stretch"
+			HorzAlign = "Left"
+			VertAlign = "Top"
+			ClipLeft = "0"
+			ClipRight = "0"
+			ClipTop = "0"
+			ClipBottom = "0"/>
+		<Element
+			CID = "306190759"
+			Type = "Rectangle"
+			X = "-1092"
+			Y = "135"
+			Width = "759"
+			Height = "344"
+			Flags = "0"
+			HighlightColour = "250,250,250,0,21"
+			ShadowColour = "172,168,153,0,17"
+			FillColour = "236,233,216,0,16"
+			GradientColour = "172,168,153,0,17"
+			BorderColour = "28,81,128,0,7"
+			TextColour = "0,0,0,0,19"
+			Fill = "Solid"
+			Border = "None"
+			TextPlacement = "Top"
+			HorzAlign = "Left"
+			BorderDepth = "2"
+			BorderWidth = "2"
+			Text = ""
+			TextOutsideExtent = "1"
+			IsDisabled = "0"/>
+		<Element
+			CID = "306211515"
+			Type = "Table"
+			X = "-1089"
+			Y = "202"
+			Width = "741"
+			Height = "224"
+			Flags = "0"
+			HeaderBackgroundColour = "241,108,46,0,0"
+			HeaderBorderColour = "172,168,153,0,17"
+			HeaderTextColour = "255,255,255,0,0"
+			BackgroundColour = "172,168,153,0,13"
+			BorderColour = "102,102,102,0,0"
+			GridLineColour = "241,239,226,0,23"
+			SortedBlendColour = "64,64,64,0,0"
+			DefOddBackgroundColour = "254,197,177,0,0"
+			DefEvenBackgroundColour = "255,255,255,0,0"
+			DefTextColour = "0,0,0,0,9"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			NextColumnID = "10"
+			IsFlat = "0"
+			IsHeaderBold = "1"
+			IsTransparent = "0"
+			HasBorder = "1"
+			HasHorzScrollBar = "1"
+			HasVertScrollBar = "1"
+			Mirror = "0"
+			HasHorzLines = "1"
+			HasVertLines = "1"
+			HasExtHorzLines = "0"
+			HasExtVertLines = "0"
+			ExtendColumnHeaders = "1"
+			ExtendColumns = "1"
+			ExtendRows = "1"
+			VariableHeightRows = "1"
+			FullRowSelection = "1"
+			HeaderWordWrap = "0"
+			WordWrap = "0"
+			HeaderSpace = "0"
+			HeaderHeight = "25"
+			RowHeight = "18"
+			FirstVisibleRow = "0"
+			FixedColumns = "0"
+			SortedColumn = "1"
+			SortedBlendFactor = "0.000000"
+			ColumnSort = "Ascending"
+			HeaderStyle = "Standard"
+			FixedCellStyle = "SemiFlat">
+			<Columns>
+				<ColumnItem
+					OddBackgroundColour = "255,255,255,0,6"
+					EvenBackgroundColour = "255,255,255,0,6"
+					TextColour = "0,0,0,0,9"
+					ColumnID = "1"
+					Heading = "No"
+					Width = "29"
+					HeaderMargin = "0"
+					CellMargin = "0"
+					HasCustomOddBgColour = "0"
+					HasCustomEvenBgColour = "0"
+					HasCustomTextColour = "0"
+					HeadingAlignment = "Centre"
+					CellAlignment = "Centre"/>
+				<ColumnItem
+					OddBackgroundColour = "255,255,255,0,6"
+					EvenBackgroundColour = "255,255,255,0,6"
+					TextColour = "0,0,0,0,9"
+					ColumnID = "2"
+					Heading = ""
+					Width = "100"
+					HeaderMargin = "0"
+					CellMargin = "0"
+					HasCustomOddBgColour = "0"
+					HasCustomEvenBgColour = "0"
+					HasCustomTextColour = "0"
+					HeadingAlignment = "Left"
+					CellAlignment = "Centre"/>
+				<ColumnItem
+					OddBackgroundColour = "255,255,255,0,6"
+					EvenBackgroundColour = "255,255,255,0,6"
+					TextColour = "0,0,0,0,9"
+					ColumnID = "3"
+					Heading = "Vendor"
+					Width = "150"
+					HeaderMargin = "0"
+					CellMargin = "0"
+					HasCustomOddBgColour = "0"
+					HasCustomEvenBgColour = "0"
+					HasCustomTextColour = "0"
+					HeadingAlignment = "Left"
+					CellAlignment = "Left"/>
+			</Columns>
+			<Data>
+				<Row
+					IsSelected = "0">
+					<Cell>
+						1
+					</Cell>
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						JNE
+					</Cell>
+				</Row>
+				<Row
+					IsSelected = "0">
+					<Cell>
+						2
+					</Cell>
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						NPX
+					</Cell>
+				</Row>
+				<Row
+					IsSelected = "0">
+					<Cell>
+						3
+					</Cell>
+					<Cell>
+						
+					</Cell>
+					<Cell>
+						NCS
+					</Cell>
+				</Row>
+			</Data>
+		</Element>
+		<Element
+			CID = "1842351393"
+			Type = "StaticText"
+			X = "-1092"
+			Y = "141"
+			Width = "759"
+			Height = "25"
+			Flags = "0"
+			FillColour = "34,32,31,0,0"
+			TextColour = "255,255,255,0,0"
+			Typeface = "Arial"
+			FontAttributes = "1"
+			TextSize = "100"
+			Text = "Lookup Vendor"
+			IsDisabled = "0"
+			Fill = "Solid"
+			HorzAlign = "Left"
+			VertAlign = "Centre"/>
+		<Element
+			CID = "1562736506"
+			Type = "Bitmap"
+			X = "-1433"
+			Y = "-271"
+			Width = "13"
+			Height = "10"
+			Flags = "32768"
+			RootPath = "$Container"
+			Filename = "..\Images\icon_view.gif"
+			Placement = "Stretch"
+			HorzAlign = "Left"
+			VertAlign = "Top"
+			ClipLeft = "0"
+			ClipRight = "0"
+			ClipTop = "0"
+			ClipBottom = "0"/>
+		<Element
+			CID = "1562721012"
+			Type = "Bitmap"
+			X = "-1431"
+			Y = "-254"
+			Width = "13"
+			Height = "10"
+			Flags = "0"
+			RootPath = "$Container"
+			Filename = "..\Images\icon_view.gif"
+			Placement = "Stretch"
+			HorzAlign = "Left"
+			VertAlign = "Top"
+			ClipLeft = "0"
+			ClipRight = "0"
+			ClipTop = "0"
+			ClipBottom = "0"/>
+		<Element
+			CID = "1562734490"
+			Type = "Bitmap"
+			X = "-1431"
+			Y = "-236"
+			Width = "13"
+			Height = "10"
+			Flags = "0"
+			RootPath = "$Container"
+			Filename = "..\Images\icon_view.gif"
+			Placement = "Stretch"
+			HorzAlign = "Left"
+			VertAlign = "Top"
+			ClipLeft = "0"
+			ClipRight = "0"
+			ClipTop = "0"
+			ClipBottom = "0"/>
+		<Element
+			CID = "1836197643"
+			Type = "Bitmap"
+			X = "-1386"
+			Y = "-327"
+			Width = "13"
+			Height = "10"
+			Flags = "0"
+			RootPath = "$Container"
+			Filename = "..\Images\icon_view.gif"
+			Placement = "Stretch"
+			HorzAlign = "Left"
+			VertAlign = "Top"
+			ClipLeft = "0"
+			ClipRight = "0"
+			ClipTop = "0"
+			ClipBottom = "0"/>
+		<Element
+			CID = "1836198892"
+			Type = "StaticText"
+			X = "-1366"
+			Y = "-326"
+			Width = "210"
+			Height = "13"
+			Flags = "0"
+			FillColour = "236,233,216,0,16"
+			TextColour = "0,0,0,0,19"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			Text = "View Detail"
+			IsDisabled = "0"
+			Fill = "None"
+			HorzAlign = "Left"
+			VertAlign = "Top"/>
+		<Element
+			CID = "146372020"
+			Type = "TextButton"
+			X = "-1070"
+			Y = "444"
+			Width = "75"
+			Height = "23"
+			Flags = "0"
+			TextColour = "0,0,0,0,19"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			Text = "Tutup"
+			Depth = "2"
+			IsDefault = "1"
+			IsDisabled = "0"
+			MarginLeft = "0"
+			MarginRight = "0"
+			MarginTop = "0"
+			MarginBottom = "0"
+			AutoNavType = "Accept"/>
+		<Element
+			CID = "317815091"
+			Type = "TextButton"
+			X = "-1056"
+			Y = "230"
+			Width = "42"
+			Height = "13"
+			Flags = "0"
+			TextColour = "0,0,0,0,19"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			Text = "select"
+			Depth = "2"
+			IsDefault = "0"
+			IsDisabled = "0"
+			MarginLeft = "0"
+			MarginRight = "0"
+			MarginTop = "0"
+			MarginBottom = "0"
+			AutoNavType = "Cancel"/>
+		<Element
+			CID = "317791023"
+			Type = "TextButton"
+			X = "-1056"
+			Y = "248"
+			Width = "42"
+			Height = "13"
+			Flags = "0"
+			TextColour = "0,0,0,0,19"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			Text = "select"
+			Depth = "2"
+			IsDefault = "0"
+			IsDisabled = "0"
+			MarginLeft = "0"
+			MarginRight = "0"
+			MarginTop = "0"
+			MarginBottom = "0"
+			AutoNavType = "Cancel"/>
+		<Element
+			CID = "317793424"
+			Type = "TextButton"
+			X = "-1055"
+			Y = "267"
+			Width = "42"
+			Height = "13"
+			Flags = "0"
+			TextColour = "0,0,0,0,19"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			Text = "select"
+			Depth = "2"
+			IsDefault = "0"
+			IsDisabled = "0"
+			MarginLeft = "0"
+			MarginRight = "0"
+			MarginTop = "0"
+			MarginBottom = "0"
+			AutoNavType = "Cancel"/>
+		<Element
+			CID = "904024183"
+			Type = "ComboBox"
+			X = "-1057"
+			Y = "175"
+			Width = "120"
+			Height = "21"
+			Flags = "2"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			Text = "All"
+			IsDisabled = "0"
+			IsEditable = "0"
+			IsFlat = "0"
+			Mirror = "0"
+			CustomStyle = "0"
+			HorzAlign = "Left"
+			OverrideTextColour = "0"
+			OverrideDisabledTextColour = "0"
+			OverrideFillColour = "0"
+			OverrideDisabledFillColour = "0"
+			OverrideBorderColour = "0"
+			TextColour = "0,0,0,0,9"
+			DisabledTextColour = "161,161,146,0,18"
+			FillColour = "240,240,255,0,0"
+			DisabledFillColour = "236,233,216,0,16"
+			BorderColour = "192,192,255,0,0"/>
+		<Element
+			CID = "904008830"
+			Type = "EditBox"
+			X = "-926"
+			Y = "175"
+			Width = "120"
+			Height = "21"
+			Flags = "2"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			Text = ""
+			IsDisabled = "0"
+			IsReadOnly = "0"
+			HorzAlign = "Left"
+			EditType = "Text"
+			OverrideTextColour = "0"
+			OverrideDisabledTextColour = "0"
+			OverrideFillColour = "0"
+			OverrideDisabledFillColour = "0"
+			OverrideBorderColour = "0"
+			MarginLeft = "0"
+			MarginRight = "0"
+			MarginTop = "0"
+			MarginBottom = "0"
+			TextColour = "0,0,0,0,9"
+			DisabledTextColour = "161,161,146,0,18"
+			FillColour = "255,255,153,0,0"
+			DisabledFillColour = "236,233,216,0,16"
+			BorderColour = "164,185,127,0,12"/>
+		<Element
+			CID = "904026032"
+			Type = "TextButton"
+			X = "-800"
+			Y = "173"
+			Width = "75"
+			Height = "23"
+			Flags = "0"
+			TextColour = "0,0,0,0,19"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			Text = "Cari"
+			Depth = "2"
+			IsDefault = "1"
+			IsDisabled = "0"
+			MarginLeft = "0"
+			MarginRight = "0"
+			MarginTop = "0"
+			MarginBottom = "0"
+			AutoNavType = "Accept"/>
+		<Element
+			CID = "904031033"
+			Type = "ListBox"
+			X = "-1212"
+			Y = "85"
+			Width = "120"
+			Height = "18"
+			Flags = "2"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			NextItemID = "5"
+			IsDisabled = "0"
+			HasHorzScrollBar = "0"
+			HasVertScrollBar = "0"
+			Mirror = "0"
+			WordWrap = "0"
+			IsFlat = "1"
+			AutoHeight = "1"
+			HorzOffset = "0"
+			HorzMargin = "0"
+			FirstVisibleItem = "1"
+			ItemHeight = "16"
+			MaxVisibleItems = "20"
+			HorzAlign = "Left"
+			VertAlign = "Centre">
+			<ListBoxItem
+				ItemID = "4"
+				Value = "Vendor"
+				IsSelected = "0"/>
+		</Element>
+	</Elements>
+	<Connections
+		CID = "2">
+		<Connection
+			CID = "541337792"
+			Layer = "DesignElements"
+			Trigger = "LeftClick"
+			Type = "Navigation"
+			SubType = "ModalSelector"
+			SourceSubItemID = ""
+			SourceRefID = "541347440"
+			TargetRefID = "541347026"
+			ConLineWidth = "2"
+			ConLineColour = "0,0,0,0,0"/>
+		<Connection
+			CID = "541328966"
+			Layer = "DesignElements"
+			Trigger = "LeftClick"
+			Type = "Navigation"
+			SubType = "ModalSelector"
+			SourceSubItemID = ""
+			SourceRefID = "541338495"
+			TargetRefID = "541347639"
+			ConLineWidth = "2"
+			ConLineColour = "0,0,0,0,0"/>
+		<Connection
+			CID = "306195684"
+			Layer = "DesignElements"
+			Trigger = "LeftClick"
+			Type = "Navigation"
+			SubType = "Modal"
+			SourceSubItemID = ""
+			SourceRefID = "290851974"
+			TargetRefID = "306190759"
+			ConLineWidth = "2"
+			ConLineColour = "0,0,0,0,0"/>
+		<Connection
+			CID = "904018036"
+			Layer = "DesignElements"
+			Trigger = "LeftClick"
+			Type = "Navigation"
+			SubType = "ModalSelector"
+			SourceSubItemID = ""
+			SourceRefID = "904024183"
+			TargetRefID = "904031033"
+			ConLineWidth = "2"
+			ConLineColour = "0,0,0,0,0"/>
+	</Connections>
+	<Groups
+		CID = "3"/>
+	<SelectionGroups
+		CID = "4"/>
+	<Notes
+		CID = "5">
+		<Note
+			CID = "113013502"
+			Name = "Description"
+			NextCID = "2">
+			<Text
+				CID = "1">
+				
+			</Text>
+		</Note>
+	</Notes>
+</Screen>
